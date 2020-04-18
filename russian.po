@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -7270,7 +7270,7 @@ msgstr "Большегрудая: Ну очень большая грудь."
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
-msgstr ""
+msgstr "Дух нефелима слился с {0}."
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:202
@@ -7347,21 +7347,21 @@ msgstr "Недостаточно похоти."
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:991
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave {0} 150 shiny."
-msgstr ""
+msgstr "Ферн дала {0} 150 блестяшек"
 
 #. Key:	LearnedPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "{0}'s consciousness has expanded."
-msgstr ""
+msgstr "Сознание {0} расширилось."
 
 #. Key:	NoBathForYou
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 msgctxt "ASexyMonsterSystem,NoBathForYou"
 msgid "Not enough orgasium."
-msgstr ""
+msgstr "Не хватает оргазиума."
 
 #. Key:	NoFutaScene
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1127
@@ -7473,21 +7473,21 @@ msgstr "Она хочет большего..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:682
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
-msgstr ""
+msgstr "Нефелим хочет еще..."
 
 #. Key:	BreederClimaxedFirst
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 msgctxt "ASexyRoamingSystem,BreederClimaxedFirst"
 msgid "{0} has climaxed first..."
-msgstr ""
+msgstr "{0} кончил первым..."
 
 #. Key:	BreederLikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
-msgstr ""
+msgstr "Нефелим доволен!"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:856
@@ -7501,7 +7501,7 @@ msgstr "Дикий Нефилим был пойман."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:677
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how {0} tastes!"
-msgstr ""
+msgstr "Ей нравится вкус {0}!"
 
 #. Key:	RBJStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:618
@@ -7564,7 +7564,7 @@ msgstr "Выберете действие, а затем нажмите Стар
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:134
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr ""
+msgstr "Поздравляем, {0} призвал новый приплод!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
