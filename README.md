@@ -7,3 +7,5 @@ https://discord.gg/6DpR6sb
 Russian translation PO files for Breeders of the Nephelym
 
 2020/03/19 Остались меню настроек "use SS" / "P,L,S C,T,V" и кнопки...
+
+2020/04/18 {0} - имя Заводчика! надо быть аккуратным с остальными {}
