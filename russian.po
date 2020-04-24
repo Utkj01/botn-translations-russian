@@ -9195,7 +9195,7 @@ msgstr "Повернуть камеру"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
-msgstr "{Toggle Utility Menu}"
+msgstr "Меню персонажа"
 
 #. Key:	Walk
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
@@ -9258,7 +9258,7 @@ msgstr "Новая игра"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:50
 msgctxt "MainMenu,SettingsButton"
 msgid "Settings"
-msgstr "Настроки"
+msgstr "Настройки"
 
 #. Key:	ActionButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:51
@@ -9629,14 +9629,14 @@ msgstr "{Автоматический пропуск диалогов до по�
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyComposition"
 msgid "Body Composition"
-msgstr "Построение тела"
+msgstr "Динамическое построение тела"
 
 #. Key:	BodyCompositionHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyCompositionHelp"
 msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr "Делает тела всех нефилимов случайными и делает возможным изменять их с помощью предметов."
+msgstr "Тела нефилимов строятся случайным образом и их фигуру можно изменить с помощью предметов."
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
@@ -9776,7 +9776,7 @@ msgstr "Женщины и футанари могут появится с чер
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 msgctxt "SettingsMenu,Hybrid"
 msgid "Hybrids"
-msgstr "Гибриды"
+msgstr "Добавить Гибридов"
 
 #. Key:	HybridHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
@@ -9790,7 +9790,7 @@ msgstr "Уникальные виды могут быть получены пр�
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
 msgctxt "SettingsMenu,KeyBinds"
 msgid "Action Bindings"
-msgstr "{Привязки действий}"
+msgstr "Настройка клавиатуры"
 
 #. Key:	LangMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
@@ -9825,7 +9825,7 @@ msgstr "За исключением мужчины заводчика, все м
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 msgctxt "SettingsMenu,MasterVolume"
 msgid "Master"
-msgstr "{Мастер}"
+msgstr "Общая громкость"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
@@ -9860,7 +9860,7 @@ msgstr "Физика"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysOption"
 msgid "Physics"
-msgstr "Физика"
+msgstr "Реалистичная физика"
 
 #. Key:	Pregnancy
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
@@ -9874,7 +9874,7 @@ msgstr "Беременность"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "Женщинам нефилимам необходимо 4 дня для призыва приплода, так же их живот будет увеличиваться в соответствии с текущей стадией. \nВНИМАНИЕ: Преключение данной настройки в течение игры сбросит все активные беременности."
+msgstr "Нефилимам необходимо 4 дня для призыва приплода, так же их живот будет увеличиваться в соответствии с текущей стадией. \nВНИМАНИЕ: Преключение данной настройки в течение игры сбросит все активные беременности."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -9888,7 +9888,7 @@ msgstr "Общее качество"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 msgctxt "SettingsMenu,RenderingFeatures"
 msgid "Rendering Features"
-msgstr "{Особенности рендеринга}"
+msgstr "Настройка рендеринга"
 
 #. Key:	Resolution
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
@@ -9909,7 +9909,7 @@ msgstr "Экран"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 msgctxt "SettingsMenu,SurpriseHelp"
 msgid "Allow consensual surprise sex."
-msgstr "Позволить случайный секс."
+msgstr "Разрешить случайный секс."
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
@@ -10126,7 +10126,7 @@ msgstr "Выбрать пункт назначения"
 #: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
 msgctxt "SSexyKeyBind,BindButton"
 msgid "Bind"
-msgstr "{Связать/привязать/закрепить}"
+msgstr "Привязать"
 
 #. Key:	BindKey
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
@@ -10399,7 +10399,7 @@ msgstr "Диалоги"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 msgctxt "SSexySettingsMenu,EnterButton"
 msgid "Enter"
-msgstr "Энтер"
+msgstr "Ввод"
 
 #. Key:	FemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:841
