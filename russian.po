@@ -10546,7 +10546,7 @@ msgstr "Активировать"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr "Настроить {заводческую сессию}"
+msgstr "Приступить к разведению"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
