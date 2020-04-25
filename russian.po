@@ -7417,7 +7417,7 @@ msgstr "Земли Роя"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:187
 msgctxt "ASexyOverworldInterface,Glade"
 msgid "Esoteric Glade"
-msgstr "{Поляна Просвящённых}"
+msgstr "Поляна Просвящённых"
 
 #. Key:	HedonTownship
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:155
@@ -7487,7 +7487,7 @@ msgstr "{0} кончил(а) первой..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
-msgstr "{Дикий нефилим удволетворен!}"
+msgstr "Дикий нефилим удволетворен!"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:856
@@ -10546,7 +10546,7 @@ msgstr "Активировать"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr "Настроить {заводческую сессию}"
+msgstr "Приступить к разведению"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
