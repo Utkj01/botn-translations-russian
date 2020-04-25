@@ -53,7 +53,7 @@ msgstr "А-а, ты не уйдишь пока не выпьишь усё, да 
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr "Это позволит тебе ловить и содержать любые варианты Гарпий."
+msgstr "Эта постройка позволяет содержать любые виды Гарпий."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -473,7 +473,7 @@ msgstr "Однако, некоторые из них могут быть бол�
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.DisplayName
 msgctxt ",10B218DC466D7C9E5D99159D3C8C2B49"
 msgid "Sylvan Treehouse"
-msgstr "Сильванский Домик на дереве"
+msgstr "Домик на дереве"
 
 #. Key:	10B6D2544B53FFD4CF0A1DA4375DF5B5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -564,7 +564,7 @@ msgstr "У тебя набор столь плодородных губ и гр�
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 msgctxt ",12AF2DD443EFD1CDF7E19291D7E49384"
 msgid "This allows you to catch and store all variants of Thriae."
-msgstr "Это позволит тебе ловить и содержать все варианты Фрий."
+msgstr "Эта постройка позволяет содержать любые виды Фрий."
 
 #. Key:	12D176A644633E97EDB77BAB882297E2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1040,7 +1040,7 @@ msgstr "Это позволит тебе разводить и содержат�
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr "Это позволит тебе ловить и содержать все варианты Сильван."
+msgstr "Эта постройка позволяет содержать любые виды Сильван."
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -2314,7 +2314,7 @@ msgstr "Выродок: Результат близкородственного 
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr "Это позволит тебе ловить и содержать все варианты Быкавров."
+msgstr "Эта постройка позволяет содержать любые виды Быкавров."
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -2678,7 +2678,7 @@ msgstr "Кое-кто обожает тебя так сильно, что гот
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 msgctxt ",61DD0F8342D2EFAE9232248215EADFB4"
 msgid "This allows you to catch and store all variants of Nekos."
-msgstr "Это позволит тебе ловить и содержать все варианты Неко."
+msgstr "Эта постройка позволяет содержать любые виды Неко."
 
 #. Key:	61DEC1574FD90C69A68E04B4E3BD4DDB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3714,7 +3714,7 @@ msgstr "*Чмок* *Чмок*"
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.Description
 msgctxt ",850118264E28125C1BEFE4B4C33B1F6D"
 msgid "This allows you to catch and store all variants of Seraphim."
-msgstr "Это позволит тебе ловить и содержать все варианты Серафимов."
+msgstr "Эта постройка позволяет содержать любые виды Серафимов."
 
 #. Key:	852A10F045E59BFFF8DD789EE5504277
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
@@ -4260,7 +4260,7 @@ msgstr "Ух... мяу!"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.Description
 msgctxt ",93BFA77B4203C927F888AA9756403DB1"
 msgid "This allows you to catch and store all variants of Dragon."
-msgstr "Это позволит тебе ловить и содержать все варианты Драконов."
+msgstr "Эта постройка позволяет содержать любые виды Драконов."
 
 #. Key:	941010544E6432D137832FA1B37E0C10
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
@@ -4393,7 +4393,7 @@ msgstr "*Мурр*"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr "Это позволит тебе ловить и содержать все варианты Лис."
+msgstr "Эта постройка позволяет содержать любые виды Лис."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -4421,7 +4421,7 @@ msgstr "Затем... ну, ты догадываешься, что мы сде�
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.DisplayName
 msgctxt ",97A580FD4F8820DD9E8FA09B6B69797A"
 msgid "Seraphim Loft"
-msgstr "Чертоги Серафим"
+msgstr "Чертоги Серафимов"
 
 #. Key:	97B6C8DB42BBC06231748889E00AC3AE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(3).Lines
@@ -5030,7 +5030,7 @@ msgstr "Удовлетвори себя моей киской!"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.Description
 msgctxt ",AF04F5A4417DBB7D20BC64B4B66C34DD"
 msgid "This allows you to catch and store all variants of Titan."
-msgstr "Это позволит тебе ловить и содержать все варианты Титанов"
+msgstr "Эта постройка позволяет содержать любые виды Титанов"
 
 #. Key:	AF4962AA4EF7962370DC5D869BFFA992
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(8).Lines
@@ -5744,7 +5744,7 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr "Это позволит тебе ловить и содержать все варианты Вульваргов."
+msgstr "Эта постройка позволяет содержать любые виды Вульваргов."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -6668,7 +6668,7 @@ msgstr "Именно я, Мирру, буду следующей королев�
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.Description
 msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
-msgstr "Это позволит тебе ловить и содержать все варианты Демонов."
+msgstr "Эта постройка позволяет содержать любые виды Демонов."
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6913,7 +6913,7 @@ msgstr "Вернись ко мне, когда поймаешь самца Ву�
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.Description
 msgctxt ",F5276F72433DAADC3348C9937061AB06"
 msgid "This allows you to catch and store all variants of Starfallen."
-msgstr "Это позволит тебе ловить и содержать все варианты Странников."
+msgstr "Эта постройка позволяет содержать любые виды Странников."
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
@@ -7151,7 +7151,7 @@ msgstr "*Хлюп* *Лизь*"
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",FCD1F71F4D144F31FDAB9F89767AC8E7"
 msgid "Yes it sounds so sweet, it is the sound of human desire. Ahhh... it grows louder as your gaze turns upon my breasts."
-msgstr "Да, это звучит столь сладко, этот звук человеческого желания. Ааах... Он становится все громче, как только твой взгляд устремляется на мою грудь."
+msgstr "Да, она звучит столь сладко, этот отзвук человеческого желания. Ааах... Он становится все громче, как только твой взгляд устремляется на мою грудь."
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
@@ -8117,7 +8117,7 @@ msgstr "Дополнительные материалы"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
-msgstr "{Окружающие эффекты}"
+msgstr "Эффекты освещения"
 
 #. Key:	AnusMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
@@ -8593,7 +8593,7 @@ msgstr "Выполнить запрос?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
 msgctxt "ConfirmationBox,NewGameConfirm"
 msgid "Begin a new adventure with a clean slate."
-msgstr "Начать новое приключение с чистого листа."
+msgstr "Начните новое приключение с чистого листа."
 
 #. Key:	NewGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
@@ -10490,7 +10490,7 @@ msgstr "Проверьте запросы на разведение"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 msgctxt "TradeMenu,BuyFunds"
 msgid "Her funds:"
-msgstr "{Её средвства:}"
+msgstr "Её деньги:"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
@@ -10511,7 +10511,7 @@ msgstr "Предметы"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
 msgctxt "TradeMenu,SellFunds"
 msgid "Your funds:"
-msgstr "Ваши средства:"
+msgstr "Ваши деньги:"
 
 #. Key:	UpgradeDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
