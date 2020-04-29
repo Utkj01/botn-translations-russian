@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -9631,6 +9631,13 @@ msgctxt "MainMenu,LoadGameButton"
 msgid "Load Game"
 msgstr "Загрузка"
 
+#. Key:	Message
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
+#: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
+msgctxt "MainMenu,Message"
+msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
+msgstr "Эта игра создана и издана одним человеком: DerelictHelmsman. \nНикакой цензуры или ДРМ не планируется; скажите спасибо если вам нравится игра. \nВыражаю особую благодарность всем моим патронам, я искренне благодарен за вашу поддержку."
+
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -10960,4 +10967,3 @@ msgstr "Говорить"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Пройти сквозь портал"
-
