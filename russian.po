@@ -760,7 +760,7 @@ msgstr "Вонзи свой миленький человеческий член
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.PlaceMessage
 msgctxt ",11A9B90644E91677CD9DEFB4CC831C2C"
 msgid "Sultry Plateau is now accessible."
-msgstr "Плато Разврата теперь открыто."
+msgstr "Открыто Плато Разврата."
 
 #. Key:	11BBEDC74B6704427E32B6A7F9FB5D77
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -1719,7 +1719,7 @@ msgstr "*Краснеет*"
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
 msgctxt ",27565BD64B41A94885451F8607E68D2F"
 msgid "Pleasure Pastures is now accessible."
-msgstr "Луга Наслаждений теперь открыты."
+msgstr "Открыты Луга Наслаждений."
 
 #. Key:	276B525843A991FAE2D5FAAE9243EFC9
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
@@ -1999,7 +1999,7 @@ msgstr "Благословлённые @MONSTER_RACE@ совсем как вы, 
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Hivelands.PlaceMessage
 msgctxt ",2E3E08D0489FB126A2E91CAA491280F4"
 msgid "Hivelands is now accessible."
-msgstr "Земли Роя теперь открыты."
+msgstr "Открыты Земли Роя."
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5226,7 +5226,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Peak.PlaceMessage
 msgctxt ",7519309946A12CD84883FC98FC964091"
 msgid "Climax Peak is now accessible."
-msgstr "Пик Оргазма теперь открыт."
+msgstr "Открыт Пик Оргазма."
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
@@ -7683,7 +7683,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Crag.PlaceMessage
 msgctxt ",AB33AE4E444B3C498B0DFF9C8B60192F"
 msgid "Moaning Crag is now accessible."
-msgstr "Стонущий Утёс теперь открыт."
+msgstr "Открыт Стонущий Утёс."
 
 #. Key:	AB9D2C374B19A9E1B3E16E8EF742C9C8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(1).Lines
@@ -9622,7 +9622,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
 msgctxt ",D857E31D47711B85E634029A4E3EB6E7"
 msgid "Virgin Breaks is now accessible."
-msgstr "Девственные Разломы теперь открыты."
+msgstr "Открыты Девственные Разломы."
 
 #. Key:	D8702B7C4C5E95A9D843A79FCFBFB106
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(0).Lines
