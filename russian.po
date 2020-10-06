@@ -1936,14 +1936,14 @@ msgstr "Полагаю, я более не нуждаюсь в подкормк�
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",2D636C78456A78C86B5305B72E889E11"
 msgid "Human pussy tastes just like I dreamt it would!"
-msgstr ""
+msgstr "Человеческая киска на вкус именно такая, как я и мечтала!"
 
 #. Key:	2D7FF6A641C8DE1EC57F84A825BA2219
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 msgctxt ",2D7FF6A641C8DE1EC57F84A825BA2219"
 msgid "To think I can mate with one... ah... yesss."
-msgstr ""
+msgstr "Подумать только, я могу спариться с одним из них... ах... да-а."
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -2013,7 +2013,7 @@ msgstr "Ух ты! Не может быть!"
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",2E8395B6412987FEE6DC3E8FE37DC549"
 msgid "One of extraordinary loneliness and self-loathing."
-msgstr ""
+msgstr "Один из них был полон необычайного одиночества и ненависти к самому себе."
 
 #. Key:	2E8D7983446334A29BB4E0BCEFBBC092
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
@@ -2034,14 +2034,14 @@ msgstr "Ферне нужно молоко, чтобы стать большой
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2EDA99CC46CBEB3206A527B95F55FAB9"
 msgid "Go away human, this is my comfy spot and you can't have it."
-msgstr ""
+msgstr "Уходи, человек, это мое уютное местечко, и ты его не получить."
 
 #. Key:	2EF1966C455529B6A75289AD5EF81C2E
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",2EF1966C455529B6A75289AD5EF81C2E"
 msgid "That's it human, you have annoyed me long enough. Get against that rock and prepare to be smashed."
-msgstr ""
+msgstr "Довольно, человек, ты уже достаточно долго испытываешь мое терпение. Прижмись к этой скале и приготовься к тому, что тебя раздавят."
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -2055,7 +2055,7 @@ msgstr "Даруй мне своё тело и мы в экстазе часы �
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(7).Lines
 msgctxt ",2F11F20945669A4E95B79EA1B7856C2A"
 msgid "A dryad's power reaches its peak at the moment of orgasm."
-msgstr ""
+msgstr "Сила дриады достигает своего пика в момент оргазма."
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -2069,7 +2069,7 @@ msgstr "Коли захочешь продать молоко @MONSTER_RACE@ а�
 #: /Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(5).Lines
 msgctxt ",2F7D02EE4B2C5C30E72919BE9D83BD1F"
 msgid "As reward, the Dragon Matriarch promised me a chance to mate with her, and I can't wait!"
-msgstr ""
+msgstr "В награду матриарх драконов пообещала мне спариться с ней, и я не могу ждать!"
 
 #. Key:	2F988E7B4E35BA65FB81488EC3339C51
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(2).Lines
@@ -2083,21 +2083,21 @@ msgstr "Она занялась любовью с сбой, чтобы прин�
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(0).Lines
 msgctxt ",2FA4621047A86335175276AF22BFDE52"
 msgid "If ye think I'm a big cow today, 'mai goodness was I larger in me younger days!"
-msgstr ""
+msgstr "Ну если ты думаешь, что сегодня я большая корова, то, боже мой, в молодости я была крупнее!"
 
 #. Key:	2FC584B146298BF0F75983AB7F59C5E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 msgctxt ",2FC584B146298BF0F75983AB7F59C5E1"
 msgid "Don't look at me like that, a dryad needs a break once in awhile!"
-msgstr ""
+msgstr "Не смотри на меня так, дриаде нужно время от времени отдыхать!"
 
 #. Key:	2FFC051448D7AD3EA274FF8D334EE641
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
 msgctxt ",2FFC051448D7AD3EA274FF8D334EE641"
 msgid "*She is fast asleep, her slime has relaxed*"
-msgstr ""
+msgstr "*Она крепко спит, ее слизь вяло растекается*"
 
 #. Key:	3002153B48BD52898AEAE78030617CF7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
@@ -2132,7 +2132,7 @@ msgstr "Получающий скачет на коленях дающего, п
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(1).Lines
 msgctxt ",307B12694EA9D8B0251B9D86E3760DB8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	308622B94E5A8BC25F1160888147CB16
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(4).Lines
@@ -2146,28 +2146,28 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou_RL_T.Default__KybeleRideYou_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",308B8DB245EC118210674A84BB3AFDC3"
 msgid "Aww what an adorable titty pony."
-msgstr ""
+msgstr "О, какая очаровательная сисястая пони."
 
 #. Key:	3092F47E411D4A54A80D53BAF9BCBC3F
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(5).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",3092F47E411D4A54A80D53BAF9BCBC3F"
 msgid "It's a nutritious aphrodisiac, a very powerful one so be careful!"
-msgstr ""
+msgstr "Это очень сильный афродизиак, так что будьте осторожны!"
 
 #. Key:	30940E7C46EDA0BA71E783B92668ECFD
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",30940E7C46EDA0BA71E783B92668ECFD"
 msgid "Mmmm... mastah tasty!"
-msgstr ""
+msgstr "Мммм... масстер вкусный!"
 
 #. Key:	309ABB3C4016F9879A6955B2D2BD5AE8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",309ABB3C4016F9879A6955B2D2BD5AE8"
 msgid "My strong body will easily overpower your human form."
-msgstr ""
+msgstr "Мое сильное тело легко одолеет тебя, человек."
 
 #. Key:	30B0262C40D2D8527E2C8EA23D4D4B6D
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(1).LinesToMale
