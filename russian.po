@@ -802,7 +802,7 @@ msgstr "В глубине души мы просто ищем удовольст
 #: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
-msgstr "Ключевой камень получен."
+msgstr "Получен Ключевой камень."
 
 #. Key:	129A33314E1BA60BA7698394A0DEDCD7
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
