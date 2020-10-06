@@ -4113,7 +4113,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Sands.PlaceMessage
 msgctxt ",5D28B49D4DE445D9A31C4FA2B4501737"
 msgid "Lewd Desert is now accessible."
-msgstr "Пустыни Непристойностей теперь отрыты."
+msgstr "Отрыты Пустыни Непристойностей."
 
 #. Key:	5E27E8A74A30D389BBB939B5142249BB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -4239,21 +4239,21 @@ msgstr ""
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",613E368A449069B472AC11842731C6AB"
 msgid "Ahhh so sweet and creamy! I haven't felt this good in decades."
-msgstr ""
+msgstr "Ах, как сладко и {сливочно}! Я не чувствовала себя так хорошо уже несколько десятилетий."
 
 #. Key:	61A8146D43CCAA9D468CCC9D2CB22F42
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",61A8146D43CCAA9D468CCC9D2CB22F42"
 msgid "If I recall... they rigged up some switch 'an pulley system."
-msgstr ""
+msgstr "Если я правильно помню... они соорудили какой-то переключатель и систему шкивов."
 
 #. Key:	61C3C47B425E2ACFE03921A38EDBD93D
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Glade.PlaceMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Glade.PlaceMessage
 msgctxt ",61C3C47B425E2ACFE03921A38EDBD93D"
 msgid "Esoteric Glade is now accessible."
-msgstr "Поляна Просвящённых теперь отрыта."
+msgstr "Отрыта Поляна Просвящённых."
 
 #. Key:	61DD0F8342D2EFAE9232248215EADFB4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
