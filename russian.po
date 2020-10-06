@@ -6150,7 +6150,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",89C2CF4D4CB264FC19F1259B533341FD"
 msgid "Thus, you can only transform to variants that you have caught."
-msgstr "Таким образом, ты можешь принять облик только тех нефелимов, которых удалось поймать."
+msgstr "Таким образом, ты можешь принять облик только тех нефилимов, которых удалось поймать."
 
 #. Key:	8A20FAFA493E277B6F0278A65210863E
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -8964,7 +8964,7 @@ msgstr "Средний"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.TypeDisplay
 msgctxt ",CA7FAE6645EB660782FB59BB2F359378"
 msgid "Nephelym Barn"
-msgstr "Сарай Нефелимов"
+msgstr "Сарай Нефилимов"
 
 #. Key:	CA8A7F834A44AD0FFD7433BCE63D2DF7
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.RaceName
@@ -13073,7 +13073,7 @@ msgstr "Выйти на рабочий стол?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:107
 msgctxt "ConfirmationBox,FulfillConfirm"
 msgid "The selected Nephelym will be given away."
-msgstr "Выбранный нефелим будет отдан."
+msgstr "Выбранный нефилим будет отдан."
 
 #. Key:	FulfillConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:106
@@ -13122,14 +13122,14 @@ msgstr "Перезаписать сохранённую игру?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:103
 msgctxt "ConfirmationBox,ReleaseConfirm"
 msgid "It will permanently leave your ranch and frolic once more."
-msgstr "Это навсегда выпустит выбранного нефелима за преелы вашего ранчо."
+msgstr "Это навсегда выпустит выбранного нефилима за преелы вашего ранчо."
 
 #. Key:	ReleaseConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 msgctxt "ConfirmationBox,ReleaseConfirmTitle"
 msgid "Release this Nephelym?"
-msgstr "Выпустить нефелима?"
+msgstr "Выпустить нефилима?"
 
 #. Key:	ReturnMainConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
@@ -14249,7 +14249,7 @@ msgstr "Футанари"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:98
 msgctxt "SettingsMenu,FutanariHelp"
 msgid "Female Nephelym and NPCs can have a fully functional dick."
-msgstr "Женский Нефелим и НИПы могут иметь полнофункциональный член"
+msgstr "Женский Нефилим и НИПы могут иметь полнофункциональный член."
 
 #. Key:	GameplayTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:54
