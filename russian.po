@@ -368,7 +368,7 @@ msgstr "Поверь мне, человек, я родила много дете
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",093760FD4181D0AA284C4D96884A3801"
 msgid "Took me love for milk too far, 'an the 'ol bovaur genes kicked in."
-msgstr "Моя любовь к молоку зашла слишком далеко, и тут вмешались старые гены боваура."
+msgstr "Моя любовь к молоку зашла слишком далеко, и тут вмешались старые гены быкавра."
 
 #. Key:	094AB3854E6DACE10C94B28ADCB83FE0
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
