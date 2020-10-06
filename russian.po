@@ -424,7 +424,7 @@ msgstr "Мы самая благородная, могущественная и 
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 msgctxt ",0B1F283F4C4E0D0752DF53AB312D45F9"
 msgid "I've heard about fertile Bovaur roaming in the south which produce vast quantities of breast milk."
-msgstr "Я слышал о фертильных боваурах, бродящих по югу, производящих огромное количество грудного молока."
+msgstr "Я слышал о фертильных Быкаврах, бродящих по югу, производящих огромное количество грудного молока."
 
 #. Key:	0B2CFD3342EAE68FB552BF9F7876374B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
