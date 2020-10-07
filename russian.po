@@ -3861,7 +3861,7 @@ msgstr "Она сжалилась над их творениями и занял
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr "Затем Темный жнец вернет в тело ваше сознание."
+msgstr "Затем Темный жнец вернет твое сознание обратно в тело."
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
