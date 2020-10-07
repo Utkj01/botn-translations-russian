@@ -67,7 +67,7 @@ msgstr "Ае, ты не уйдешь пока не выпьешь всё, да �
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0169F2A34BA4C1104CDDEE99B3A3B50E"
 msgid "So I can, y-y-you know... feel your cock deep inside me."
-msgstr "Так что я могу, т-ты знаешь... ощутить твой член глубоко внутри меня."
+msgstr "Так что я могу, т-ты знаешь... почувствовать твой член глубоко внутри себя."
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
@@ -6948,7 +6948,7 @@ msgstr "Врремя сссобирать жидкосстиии?"
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",982CC755420F84E3E4F0E5A5452A5A48"
 msgid "I want to make love with you, I will not lie."
-msgstr ""
+msgstr "Я хочу заняться с тобой любовью, я не шучу."
 
 #. Key:	985E4BA14797DC7FF94FF4974E66471A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(6).Lines
@@ -7515,7 +7515,7 @@ msgstr "Как ты оказалась здесь?"
 #: /Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",A794490B471FFA8A958C3BA3B3BFDB9C"
 msgid "How adorable, may I have the keystone now?"
-msgstr ""
+msgstr "Как мило, можно мне теперь забрать Ключевой камень?"
 
 #. Key:	A7C8404E4B6C68006478148076380602
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(14).Lines
@@ -7529,21 +7529,21 @@ msgstr "Моё предположение в том, что когда один 
 #: /Game/Dialogue/Monarch/Default/MonarchTaskFulfilled.Default__MonarchTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",A7E400D84D8F2911F46A3BA5FBA020A8"
 msgid "My nectar collection has grown considerably, and the wild ones around here can't keep up."
-msgstr ""
+msgstr "Моя коллекция нектара значительно увеличилась, и дикие не могут до нее добраться здесь."
 
 #. Key:	A7F13B9A43B11BD74FA2CB95A0F30AC2
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A7F13B9A43B11BD74FA2CB95A0F30AC2"
 msgid "It's been sometime since I have released, so this is going to get messy."
-msgstr ""
+msgstr "Прошло уже много времени с тех пор, как я кончала, так что это будет очень липко."
 
 #. Key:	A7F62643438C0E70840CB3BDB7695B68
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Message
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Message
 msgctxt ",A7F62643438C0E70840CB3BDB7695B68"
 msgid "Kybele is satisfied."
-msgstr ""
+msgstr "Кибела довольна."
 
 #. Key:	A83161F4465E00C6CE9D718D3E76EDC6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -7578,14 +7578,14 @@ msgstr "Если ты хочешь больше узнать об удоволь
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01.Default__MegaSlimeDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",A913B249494A32A6AF263BAE0962E781"
 msgid "Slime slime slime... I can play with my slime all day!"
-msgstr ""
+msgstr "Слизь, слизь, слизь... Я могу играть со своей слизью весь день!"
 
 #. Key:	A91571364DFC6A4FA3772D9FCBDB52AA
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A91571364DFC6A4FA3772D9FCBDB52AA"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "Кто знает, кто из них мой, мне все равно. Матриарх будет размножаться до конца времен."
 
 #. Key:	A91A80914B126F3C3F262D93E88AEA71
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -7599,14 +7599,14 @@ msgstr "Миссионерская!"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",A926E381450A057D1E6C1598ABA5B917"
 msgid "About that dungeon over there..."
-msgstr ""
+msgstr "О том подземелье вон там..."
 
 #. Key:	A931FB674A22AA9E31C00B9F0762AF5C
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",A931FB674A22AA9E31C00B9F0762AF5C"
 msgid "Too much information... now, the keystone."
-msgstr ""
+msgstr "Слишком много информации... теперь о Ключевом камне."
 
 #. Key:	A97AEF8E47499B2AEB627CAE711C36BC
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartSplinters.Default__CassieDefault01_Meow_StartSplinters_C.SessionData.Lines(0).Lines
@@ -7634,7 +7634,7 @@ msgstr "Посcмотри - мой прекраcсный цветок раcсц�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(14).Lines
 msgctxt ",AA08081E4A0AF7A81D4B99B1527E6970"
 msgid "The demons took advantage of this and started using them as breeding toys."
-msgstr ""
+msgstr "Демоны воспользовались этим и начали использовать их как игрушки для размножения."
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -7648,7 +7648,7 @@ msgstr "Странная мелодия донеслась до меня, тон
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",AA19D8F246FE5FAD5F7E9D8BEEDF10E3"
 msgid "You should stay down here and play with me all day, we can be friends forever!"
-msgstr ""
+msgstr "Ты должен остаться здесь и играть со мной весь день, мы останемся друзьями навсегда!"
 
 #. Key:	AA3F14D64D5670190F05DD83A37D1AC9
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -7662,7 +7662,7 @@ msgstr "Ты изменилась!"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(6).Lines
 msgctxt ",AA4B233A44217B671C811FA495E456B5"
 msgid "She can pollinate me all day, and her sweet honey will make amazing fruit."
-msgstr ""
+msgstr "Она может опылять меня весь день, и ее сладкий мед принесет удивительные плоды."
 
 #. Key:	AAD8CEA34AE6DE13A8683089046598D3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(6).Lines
@@ -7676,7 +7676,7 @@ msgstr "В любом случае, мы просто снимем ошейни�
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_HedonDungeonSwitch.ActivateMessage
 msgctxt ",AB0597744358BD82828774A65E812AEE"
 msgid "Pull Lever"
-msgstr ""
+msgstr "Потянуть рычаг"
 
 #. Key:	AB33AE4E444B3C498B0DFF9C8B60192F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Crag.PlaceMessage
@@ -8509,7 +8509,7 @@ msgstr "Аааа..."
 #: /Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(3).Lines
 msgctxt ",BD73D4BA496C11214C7199AB3A0ED336"
 msgid "But if the sexual encounter were to come to me..."
-msgstr ""
+msgstr "Но если секс-противник сам пришел ко мне..."
 
 #. Key:	BDF0CA7D47EE073120067A9FCE686C17
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(1).Lines
@@ -9027,7 +9027,7 @@ msgstr "Вернись... моя глубокая драконья киска ж
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(4).Lines
 msgctxt ",CCBDEE9E4366EC8D550F4DB7D8C546F8"
 msgid "Then I pose seductively in front whatever she brought back, and she records how it reacts."
-msgstr ""
+msgstr "Затем я соблазнительно позирую с тем, что она принесла, а она записывает реакцию на это."
 
 #. Key:	CCFE0CB04C0DD4BC550FE6AF03BFABB3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
@@ -9132,7 +9132,7 @@ msgstr "Вообще-то, соски мне кое-что напоминают!
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",CF8C923C4436452FD45381813CFCD1F5"
 msgid "So I can, y-y-you know... make you feel good."
-msgstr ""
+msgstr "Так что я могу, т-ты знаешь... почувствовать твой член глубоко внутри себя."
 
 #. Key:	CFA095544A3BB18577988A9489DE24CC
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(0).Lines
@@ -9167,7 +9167,7 @@ msgstr "Еще! Еще!"
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(1).TextEntries
 msgctxt ",D039FDFA4AB60D6ABD3384AEF3348588"
 msgid "It's study time! And by that I mean bring me the most well-endowed Nephelym you can breed. As much as I would like to say this study is about furthering the endless endeavor that is science, no I am horny as hell and want you to fix it! Sure, sex twenty times a day is fun and all, but it's not enough. This one will be for... personal alone time at night. Humans can't possibly understand! The desires don't ever stop!!  -Falene"
-msgstr ""
+msgstr "Настало время обучения! И под этим я подразумеваю, то что тебе нужно привести мне самого одаренного нефилима, которого ты сможешь вывести. Как бы мне ни хотелось сказать, что это все исключительно ради исследований и науки, но нет, я просто чертовски возбуждена и хочу! Конечно, секс двадцать раз в день-это весело и все такое, но этого недостаточно. Он будет для... личного пользования ночью. Люди просто не могут этого понять! Желания никогда не прекращаются!! -Фален"
 
 #. Key:	D03FE11A4B475C76629C24AF0C738457
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
@@ -9349,7 +9349,7 @@ msgstr "*Вздох* Как я уже говорила, у @MONSTER_RACE@ чре
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(1).Lines
 msgctxt ",D3EBA5FE4F8C935CB40680BE9D7ED27E"
 msgid "I see I've been slacking off and let my roots overtake the gate to the cove."
-msgstr ""
+msgstr "Видимо я увлеклась и позволила корням обвить ворота в бухту."
 
 #. Key:	D3EBB7904D4648D8930D5B98189AC73D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.RaceName
@@ -9489,7 +9489,7 @@ msgstr "Существует бесконечное число душ @MONSTER_R
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(5).Lines
 msgctxt ",D5F8F9DC452D7E14F022B7A4C04B523C"
 msgid "If you can breed me a lovely honey bee, it would be a massive help."
-msgstr ""
+msgstr "Если вы сможете вырастить мне прекрасную пчелку, это будет огромная помощь."
 
 #. Key:	D60B38ED43ABAC98BCB33FBB4B3477F4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -9517,28 +9517,28 @@ msgstr "..."
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(1).Lines
 msgctxt ",D6D627BB4317AEDB4A049A875CA79F63"
 msgid "We bring her nectar and please her sexually, and in return she let's us eat of her h-h-honey."
-msgstr ""
+msgstr "Мы приносим ей нектар и ублажаем ее, а взамен она позволяет нам есть ее м-м-мед."
 
 #. Key:	D6E5B72340D672B892908385DF8BC169
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D6E5B72340D672B892908385DF8BC169"
 msgid "In my case, that Alchemist Guild on the surface constantly dumps fresh semen down here."
-msgstr ""
+msgstr "В моем случае гильдия алхимиков наверху постоянно сбрасывает сюда свежую сперму."
 
 #. Key:	D6ECEFA141121C7CDA69A5BAC65087CE
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(0).Lines
 msgctxt ",D6ECEFA141121C7CDA69A5BAC65087CE"
 msgid "Ah, you wish to have sex with the mighty Titans; I can respect that, for I have done it many times."
-msgstr ""
+msgstr "Ах, вы хотите заняться сексом с могучими титанами; я могу понять это, потому что я делала это много раз."
 
 #. Key:	D720325F44DF14DB1473D0A78512EB8E
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",D720325F44DF14DB1473D0A78512EB8E"
 msgid "Well what are you waiting for? Come on in!"
-msgstr ""
+msgstr "Ну и чего же ты ждешь? Входи же!"
 
 #. Key:	D75F1B6640E7E50789CBE7B4CBEE0FF3
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -9552,21 +9552,21 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb_RL.Default__MegaSlimeAboutOrb_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D76798CF4DCADF9AF42C6B88C36E27FB"
 msgid "This won't be easy..."
-msgstr ""
+msgstr "Это будет нелегко..."
 
 #. Key:	D79654914AB8CE6E58B5A28BDCFB3EBC
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToMale(5).LinesToMale
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",D79654914AB8CE6E58B5A28BDCFB3EBC"
 msgid "It's a nutritious aphrodisiac, a very powerful one so be careful!"
-msgstr ""
+msgstr "Это очень сильный афродизиак, так что будьте осторожны!"
 
 #. Key:	D7A6D67F4C7BFFA071AA8480399A5D41
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",D7A6D67F4C7BFFA071AA8480399A5D41"
 msgid "I can't believe it!"
-msgstr ""
+msgstr "Я не могу в это поверить!"
 
 #. Key:	D7B87B2D4E7F9B733C981C804A0914C8
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -9608,14 +9608,14 @@ msgstr "Поcсмотри - мой прекраcсный цветок расcц�
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou_RL.Default__KybeleRideYou_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D8048E504EF52CFA3D3F618130F77DB0"
 msgid "Aww what an adorable titty pony."
-msgstr ""
+msgstr "О, какая очаровательная сисястая пони."
 
 #. Key:	D839985345EFF273DA362C9BB07DA471
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(1).Lines
 msgctxt ",D839985345EFF273DA362C9BB07DA471"
 msgid "Don't be fooled by those Titans. They might seem like they own the place with their massive size and strength."
-msgstr ""
+msgstr "Не дай себя обмануть титанами. Они могут казаться хозяевами этого места с их огромными размерами и силой."
 
 #. Key:	D857E31D47711B85E634029A4E3EB6E7
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
@@ -9636,7 +9636,7 @@ msgstr "*Сопит*"
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Lines(1).Lines
 msgctxt ",D87AAD604344FB1EAE2D0F9DCC51E7EA"
 msgid "But don't tell the Dragon Matriarch!"
-msgstr ""
+msgstr "Но только не говори об этом матриарху драконов!"
 
 #. Key:	D8A6098049B17D17442735B4FDBAB323
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(2).Lines
@@ -9657,7 +9657,7 @@ msgstr "Я раcсту всё более cсладоcстраcстной и пр
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",D8F0F94A480E7784CAF965A42BDDDC9A"
 msgid "How are slimes made?"
-msgstr ""
+msgstr "Как получается слизь?"
 
 #. Key:	D8F23CE1423B47137E2603AC9C522535
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(4).Lines
@@ -9692,21 +9692,21 @@ msgstr "Ох масстер... ты сслишком хорош для меня.
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",D946784E4574F80408FA7D82B80E4EAC"
 msgid "I'm getting wet just thinking about your thick cock seeding me."
-msgstr ""
+msgstr "Я становлюсь мокрой, просто думая о твоем толстом члене, засевающем меня."
 
 #. Key:	D98B804D4BEB2904234F77AB902776CD
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(2).Lines
 msgctxt ",D98B804D4BEB2904234F77AB902776CD"
 msgid "Every dryad is blessed by the Goddess, there are no wild dryads."
-msgstr ""
+msgstr "Каждая Дриада благословлена богиней, диких дриад не бывает."
 
 #. Key:	D9AEE5314A7E8A6D9F57F6B9A6116A55
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",D9AEE5314A7E8A6D9F57F6B9A6116A55"
 msgid "Each time she moans a little louder, I think she's starting to get addicted to my cock."
-msgstr ""
+msgstr "Каждый раз, когда она стонет немного громче, я думаю, что она начинает привыкать к моему члену."
 
 #. Key:	D9AEE8B346F04D85CD643FA456C20645
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(1).Lines
@@ -9734,7 +9734,7 @@ msgstr "Дикие @MONSTER_RACE@ могут быть туповатыми, но
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",D9F1E15344E0F55C0BF0C2BD7FA7EB63"
 msgid "Hmm... I suppose you were a good mate."
-msgstr ""
+msgstr "Хмм... Полагаю, ты был хорошим другом."
 
 #. Key:	D9F77A0E43A8B000912D6AB5C30FD924
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -9797,7 +9797,7 @@ msgstr "Я могу помочь ссобрать флюиды @MONSTER_RACE@."
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",DB0CF562471898C2200245955791C3B9"
 msgid "What brings you here?"
-msgstr ""
+msgstr "Что привело тебя сюда?"
 
 #. Key:	DB15AC1342DDCD7D060351944CB369E4
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(2).Lines
@@ -9811,7 +9811,7 @@ msgstr "Мяяяяяу!"
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",DB1DF3C343E55ED6022897831EFCA30B"
 msgid "Haha! Humans do have a one-track mind... you aren't so different from us after all."
-msgstr ""
+msgstr "Ха-ха! У людей действительно однонаправленный ум... в конце концов, ты не так уж и отличаешься от нас."
 
 #. Key:	DB4129DC426B367CD877BE889495E940
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -9825,7 +9825,7 @@ msgstr "Давай меняться семенем!"
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans_RL_T.Default__KybeleAnyMeans_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",DB44149945F62048F1EF0D9C2BF75EFB"
 msgid "Pfff I can handle a titty pony."
-msgstr ""
+msgstr "Пффф, я совладаю с сиськастым пони."
 
 #. Key:	DB49BD62447CAE7EAA40869818522E59
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -9846,7 +9846,7 @@ msgstr "Ссс..."
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(3).Lines
 msgctxt ",DB700CCB477FAB622C9638923D9D31D6"
 msgid "That old rusty set of gears above the town entrance controls a pulley system."
-msgstr ""
+msgstr "Этот старый ржавый набор шестеренок над входом в город управляет системой шкивов."
 
 #. Key:	DB7D31B143C7D61531D61790BE87667B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(1).Lines
@@ -9874,21 +9874,21 @@ msgstr "Ферн нужны флюиды!"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(3).Lines
 msgctxt ",DC33A237422E2C40903834AF3706B8E4"
 msgid "Then just a few days ago, this orb floated down the drain and got stuck in me."
-msgstr ""
+msgstr "А потом, всего несколько дней назад, этот шар выплыл в канализацию и застрял во мне."
 
 #. Key:	DC3FF6AD41D27D03E1D980BAD76F4897
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",DC3FF6AD41D27D03E1D980BAD76F4897"
 msgid "Still... you pleased me like a stallion. That's amazing for one of your size!"
-msgstr ""
+msgstr "Еще... ты порадовал меня, как жеребец. Это удивительно на первый взляд и не скажешь!"
 
 #. Key:	DC59A07E4D2FC78409E32EA7A64B7007
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(7).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(7).LinesToFemale
 msgctxt ",DC59A07E4D2FC78409E32EA7A64B7007"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "Этот жуткий золотой серафим, тот, что в храме. Она появилась всего несколько дней назад, и постоянно просит поговорить с \"человеком\"."
 
 #. Key:	DC843E8A4828B0881624D494C080BC2B
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(1).Lines
@@ -9923,7 +9923,7 @@ msgstr "Большегрудая"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",DCA3C7F14DDEBDAEB595FB95AA6A4F3C"
 msgid "Really?! These truly are the best days of my life!"
-msgstr ""
+msgstr "Неужели?! Это действительно лучшие дни в моей жизни!"
 
 #. Key:	DCBFA42D4FD9520CA7F586A84DCF3921
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
@@ -9944,7 +9944,7 @@ msgstr "Если дикий @MONSTER_RACE@ потеряет к тебе инте
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",DD27BA4F486D3C23B0BAE6ABF193831E"
 msgid "A human... t-t-that's not something you see everyday."
-msgstr ""
+msgstr "Человек... т-т-такое не каждый день увидишь."
 
 #. Key:	DD3959194243B910FF07BC8D7CA651AB
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(0).Lines
@@ -9986,14 +9986,14 @@ msgstr "Тем не менее, кто бы ни возвёл твою изго�
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Message
 msgctxt ",DDEC9C474F3624331E30EEB35B19842A"
 msgid "Autumn is satisfied."
-msgstr ""
+msgstr "Аутум довольна"
 
 #. Key:	DE21C1784F767D32E852689C8D264665
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",DE21C1784F767D32E852689C8D264665"
 msgid "It's been so long since I have given slime."
-msgstr ""
+msgstr "Прошло так много времени с тех пор, как я делала слизь."
 
 #. Key:	DE7B484C4224680737F160881A189942
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(2).Lines
@@ -10070,7 +10070,7 @@ msgstr "Тебе нравится моя мягкая золотистая ко�
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(1).Lines
 msgctxt ",E04E71634CD5DA9067A43C8F3AE1A4F3"
 msgid "After decades of growth, the fruit will fall off and a dryad will emerge."
-msgstr ""
+msgstr "После десяти лет роста плод опадет, и из него появится Дриада."
 
 #. Key:	E0699FC749A0DDDF3E385CA8D6F3E80E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -10098,14 +10098,14 @@ msgstr "Ты можешь подоить мою грудь!"
 #: /Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(2).Lines
 msgctxt ",E0C87F904575D628A6EAEFAD7A1DD491"
 msgid "As such, we frequently find ourselves on the receiving end of sex..."
-msgstr ""
+msgstr "Таким образом, мы часто оказываемся на принимающей стороне секса..."
 
 #. Key:	E0CB0262419C2D4379873799FB2844BC
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(6).Lines
 msgctxt ",E0CB0262419C2D4379873799FB2844BC"
 msgid "I guess I do spoil them..."
-msgstr ""
+msgstr "Наверное, я действительно их балую..."
 
 #. Key:	E0E93AA54E36B2C3F876CEBE1F52C2FC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(4).Lines
@@ -10161,7 +10161,7 @@ msgstr "Аах... оооох... да! Пожалуйста оба мои щуп�
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",E1FD0C3A455475E0E474A0A50646DBA8"
 msgid "Once they built that new temple, the door was sealed... golly 'twas well over 1000 years ago now."
-msgstr ""
+msgstr "Как только они построили этот новый храм, дверь была запечатана... ей-богу, это было уже более 1000 лет назад."
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
@@ -11141,21 +11141,21 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",F7C4336C4CE85A985EE8819488AD2853"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "Кто знает, кто из них мой, мне все равно. Матриарх будет размножаться до конца времен."
 
 #. Key:	F80CC71F49A124229467EC98902D86F9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(4).Lines
 msgctxt ",F80CC71F49A124229467EC98902D86F9"
 msgid "Count yourself fortunate, in case you haven't noticed the challenge present for a centuar to please herself."
-msgstr ""
+msgstr "Считайте, что вам повезло, Кентавр бросает вызов, чтобы доставить себе удовольствие."
 
 #. Key:	F84550BD45785F99DC5ACC9F2C125EDF
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",F84550BD45785F99DC5ACC9F2C125EDF"
 msgid "Dragon Matriarch?"
-msgstr ""
+msgstr "Матриарх Драконов?"
 
 #. Key:	F88AA516424D4DB3A67953803B2F3000
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(3).Lines
