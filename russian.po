@@ -5758,7 +5758,7 @@ msgstr "Да, оох... накорми мое сладострастное те�
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",83F4F4214C815B64605575ADD36AEAC7"
 msgid "Tell you what, since you're a breeder, if you give me one of your best offspring, I will let you use the keystone."
-msgstr "Знаешь что, поскольку ты заводчик, если ты дашь мне одного из своих лучших нефилимов, я позволю тебе завбрвть Ключевой камень."
+msgstr "Знаешь что, поскольку ты заводчик, если ты дашь мне одного из своих лучших нефилимов, я позволю тебе забрать Ключевой камень."
 
 #. Key:	83F96FD847C509C2689331A208A49D12
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
