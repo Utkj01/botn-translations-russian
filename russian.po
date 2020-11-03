@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -8511,13 +8511,6 @@ msgctxt ",9D593DC94FAA9CCF2CB35CBA7EA06A73"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
 msgstr "Я познала член и влагалище @MONSTER_RACE@ и это за пределами понимания."
 
-#. Key:	9D926A2C41DF755FE1A31A97367E5723
-#. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(4).Lines
-#: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(4).Lines
-msgctxt ",9D926A2C41DF755FE1A31A97367E5723"
-msgid "I thought... finally... I would have friends again..."
-msgstr "Я думала... наконец-то... У меня снова будут друзья..."
-
 #. Key:	9D875449461B56179F1FE9A457741C3B
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_T.Default__FesssiDefault03_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_T.Default__FesssiDefault03_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
@@ -10429,13 +10422,6 @@ msgctxt ",C198075048B96603CACC81A045A05956"
 msgid "It is said, they are an exact replica of the Goddess' vagina itself!"
 msgstr "Говорят, что это точные копии вагины самой Богини!"
 
-#. Key:	C19C3B2546EDEB0314A3DCB90075F40B
-#. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(2).Lines
-#: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(2).Lines
-msgctxt ",C19C3B2546EDEB0314A3DCB90075F40B"
-msgid "Who would... after years of loneliness... *sniff*"
-msgstr "Кто бы мог подумать... после долгих лет одиночества... *сопит*"
-
 #. Key:	C2409B0E43C4FECF37A9A4AEC03EA9E7
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
@@ -10491,13 +10477,6 @@ msgstr "Сделай так, и дух сможет почувствовать �
 msgctxt ",C36C759941B23E33ABE38E9C98E4A1E3"
 msgid "Lap Dance!"
 msgstr "Приватный Танец!"
-
-#. Key:	C38FF14A44AD68B06D904480EECFAC58
-#. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(5).Lines
-#: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(5).Lines
-msgctxt ",C38FF14A44AD68B06D904480EECFAC58"
-msgid "*Sobbing*"
-msgstr "*Всхлипывает*"
 
 #. Key:	C396D17343484B5599E940B3CD9E0AF1
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcHadSex01.Default__OrcHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -13123,13 +13102,6 @@ msgstr ""
 msgctxt ",F267FA90451165F036048A9D768C4718"
 msgid "Please give Fern all drops. Fern grow faster with more drops... no more drops for purple elf."
 msgstr "Пожалуйста, дай Ферн вссе капли. Чем больше капель, тем Ферн рассти быстрее... никаких больше капель фиолетовому эльфу."
-
-#. Key:	F275980145B2B095A80AA99110DF5A3B
-#. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(3).Lines
-#: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(3).Lines
-msgctxt ",F275980145B2B095A80AA99110DF5A3B"
-msgid "*Sniff*"
-msgstr "*Сопит*"
 
 #. Key:	F2F1647F46528F5AE94959AFFBE62500
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcGreeting01.Default__OrcGreeting01_C.SessionData.Lines(0).Lines
@@ -16120,13 +16092,6 @@ msgctxt "MainMenu,LoadGameButton"
 msgid "Load Game"
 msgstr "Загрузка"
 
-#. Key:	Message
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
-#: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
-msgctxt "MainMenu,Message"
-msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
-msgstr "Эта игра создана и издана одним человеком: DerelictHelmsman. \nНикакой цензуры или ДРМ не планируется; скажите спасибо если вам нравится игра. \nВыражаю особую благодарность всем моим патронам, я искренне благодарен за вашу поддержку."
-
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:38
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:38
@@ -17309,13 +17274,6 @@ msgstr "Фетиш"
 msgctxt "SSexySettingsMenu,NFemG"
 msgid "Futas use SS TG."
 msgstr "{Футанари используют SS TG.}"
-
-#. Key:	ProudMother
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:830
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:830
-msgctxt "SSexySettingsMenu,ProudMother"
-msgid "Your mother would be so proud."
-msgstr "Твоя мать была бы так горда."
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
