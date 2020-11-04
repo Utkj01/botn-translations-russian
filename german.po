@@ -1,4 +1,4 @@
-# german German (Germany) translation.
+﻿# german German (Germany) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
@@ -17442,3 +17442,4 @@ msgstr "Reden"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Portal durchschreiten"
+
