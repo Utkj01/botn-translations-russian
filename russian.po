@@ -417,7 +417,7 @@ msgstr "Неужели все орки такие же нахальные и т�
 #: /Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",08A1991945921B46D9EF9A94894EF846"
 msgid "This corner is n-n-nice and safe!"
-msgstr"Эта л-у-у-ужайка уютна и безопасна!"
+msgstr "Эта л-у-у-ужайка уютна и безопасна!"
 
 #. Key:	08A2508F4D57261E790AB8BEA258D6B2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
