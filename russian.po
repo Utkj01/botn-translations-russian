@@ -7235,7 +7235,7 @@ msgstr "Как печально... они не росли сотни лет. Б�
 #: /Game/Dialogue/Autumn/Default/DryadFlowers.Default__DryadFlowers_C.SessionData.Lines(5).Lines
 msgctxt ",87AE8529473D2DEE9E580591D88F1EE5"
 msgid "As you might have guessed from the name, ejaculum-phallis are famous for producing tons of nectar."
-msgstr "Как вы могли догадаться из названия, Эякулум фаллис знаменит тем, что производят тонны нектара."
+msgstr "Как ты мог догадаться из названия, Эякулум фаллис знаменит тем, что производят тонны нектара."
 
 #. Key:	87F01F0B48F45D7E461449960ED82A56
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
@@ -10014,7 +10014,7 @@ msgstr "Ааах... еще одна порция для моей гигантс�
 #: /Game/Dialogue/QueenBee/Default/BeeAboutBees.Default__BeeAboutBees_C.SessionData.Lines(1).Lines
 msgctxt ",B92677C94581B16A61827CA24E811637"
 msgid "To harvest it, a queen will produce worker bee daughters who then mix the nectar with their breast milk."
-msgstr "Чтобы собрать его, корова произведет рабочих пчел которые затем смешают нектар с их грудным молоком."
+msgstr "Чтобы собрать его, королева произведет рабочих пчел которые затем смешают нектар с их грудным молоком."
 
 #. Key:	B98DBFC944D984D0B00D708EE1B9AB94
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(0).LinesToFuta
