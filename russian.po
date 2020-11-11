@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -417,7 +417,7 @@ msgstr "Неужели все орки такие же нахальные и т�
 #: /Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",08A1991945921B46D9EF9A94894EF846"
 msgid "This corner is n-n-nice and safe!"
-msgstr"Эта л-у-у-ужайка уютна и безопасна!"
+msgstr "Эта л-у-у-ужайка уютна и безопасна!"
 
 #. Key:	08A2508F4D57261E790AB8BEA258D6B2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3623,7 +3623,7 @@ msgstr "*Мур* Ты заставил меня чувствовать себя 
 #: /Game/Dialogue/Fesssi/Default/FesssiAreYouOk.Default__FesssiAreYouOk_C.SessionData.Lines(0).Lines
 msgctxt ",4360D9A3483F76A70B34C59BF0B5B019"
 msgid "Your concern is making me wet... hissss... come closer."
-msgstr "Твоя забота делает меня мокрой... Шшшшш... подойди ближе."
+msgstr "Твоя забота делает меня мокрой... Ссс... подойди ближе."
 
 #. Key:	436AE5954AEC637113E3E1A30DFDE1C5
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(0).Lines
@@ -6472,7 +6472,7 @@ msgstr "Расслабься пока я покрываю твой член то
 #: /Game/Dialogue/Fesssi/Default/FesssiIdiots.Default__FesssiIdiots_C.SessionData.Lines(0).Lines
 msgctxt ",7A69F5FB4A97FC4EE925589FFD78142E"
 msgid "Indeed, sexy horny idiots. Hiss!"
-msgstr "Настоящие похотливые идиоты. Шшшш!"
+msgstr "Настоящие похотливые идиоты. Ссс!"
 
 #. Key:	7A7EFCC44E743CC63CBCBB86D21C890C
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcBrashDumb.Default__OrcBrashDumb_C.SessionData.Lines(1).Lines
@@ -8467,7 +8467,7 @@ msgstr "Раса Драконов будет царствовать безраз
 #: /Game/Dialogue/Fesssi/Default/FesssiHadSex01.Default__FesssiHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",9C25CF834B78D0D105D4C98D2D869441"
 msgid "Sssso tasty. Hiss!"
-msgstr "Так вкусно. Шшшш!"
+msgstr "Так вкусно. Ссс!"
 
 #. Key:	9C2CBDE44BB47D22C9F6A5AFB2316748
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcDefault01.Default__OrcDefault01_C.SessionData.Lines(3).Lines
@@ -9006,7 +9006,7 @@ msgstr "Кибела удовлетворена."
 #: /Game/Dialogue/Fesssi/Default/FesssiHowLong.Default__FesssiHowLong_C.SessionData.Lines(3).Lines
 msgctxt ",A8125055480BB34E28E96EB2CD3017F0"
 msgid "They liked it and kept coming back for more. I gave many blow jobs and tasted cum from all over the world, it was great. Hiss!"
-msgstr "Им это нравилось, и они постоянно возвращались за добавкой. Я сделала много минетов и испробовала сперму со всего мира, это было так здорово. Шшшш!"
+msgstr "Им это нравилось, и они постоянно возвращались за добавкой. Я сделала много минетов и испробовала сперму со всего мира, это было так здорово. Ссс!"
 
 #. Key:	A83161F4465E00C6CE9D718D3E76EDC6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -9321,7 +9321,7 @@ msgstr "Моя киска священна и волшебна. Пусть тв�
 #: /Game/Dialogue/Fesssi/Default/FesssiGreeting01.Default__FesssiGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",ADECFCE04009A18A9FCD358FEAD730A5"
 msgid "Hiss! Oh sexy human, come closer... I promise I won't bite."
-msgstr "Шшшш! О человек, подойди ближе... Я обещаю, что не укушу."
+msgstr "Ссс! О человек, подойди ближе... Я обещаю, что не укушу."
 
 #. Key:	ADF357A1447CC164A3CF54A274E1EECF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -9552,7 +9552,7 @@ msgstr "Между тем... Я была очень непослушной за�
 #: /Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(0).Lines
 msgctxt ",B22CBCF74EE8D6771B1E7987993911F6"
 msgid "The cave leads to Amorous Hallows. Hiss!"
-msgstr "Пещера ведет к Пещерам Любви. С-с-с!"
+msgstr "Этот лаз ведет к Пещерам Любви. С-с-с!"
 
 #. Key:	B2323665415F7EE8A74204A9FD52D914
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(7).Lines
