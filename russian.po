@@ -214,7 +214,7 @@ msgstr "Мяу! Как же хорошо! Кошечка сейчас обкон
 #: /Game/Dialogue/Widow/Default/WidowKeystone.Default__WidowKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",0417FF204F76BA02C95525915D7673A9"
 msgid "A clumsy lamia with an oversized behind came down here a few years ago and left it there."
-msgstr "Неуклюжая Ламия с огромным задом спустилась сюда несколько лет назад и осталась там."
+msgstr "Неуклюжая Ламия с огромным задом спустилась сюда несколько лет назад и оставила его тут."
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
@@ -914,7 +914,7 @@ msgstr "Открыто Плато Разврата."
 #: /Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(4).Lines
 msgctxt ",11B6FBE746EB52494E5B6E83052E0D98"
 msgid "Naturally I slithered my big butt in there and found myself right at home."
-msgstr "Разумеется, я проскользнула своей большой попкой туда и оказалась прямо как дома."
+msgstr "Вот уж действительно, я застряла своей большой попкой в нужном месте."
 
 #. Key:	11BBEDC74B6704427E32B6A7F9FB5D77
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3154,7 +3154,7 @@ msgstr "Поймай самца Вульварга, если у тебя его 
 #: /Game/Dialogue/Fesssi/Default/FesssiHowLong.Default__FesssiHowLong_C.SessionData.Lines(4).Lines
 msgctxt ",3B7564A547A46D41C60CB999DCC9B845"
 msgid "But by far the best surprises came from behind... or they did before that confounded Cockblock Gate sealed itself a few days ago."
-msgstr "Но, самые лучшие сюрпризы приходили сзади... или они приходили до того, как эти проклятые врата закрылись несколько дней назад."
+msgstr "Но, самые лучшие сюрпризы входили сзади... до того, как эти проклятые Обламывающие Врата закрылись несколько дней назад."
 
 #. Key:	3B79840D47C6CCB278E40AB26C3546E7
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartMIssionary.Default__ParvatiDefault01_StartMIssionary_C.SessionData.Lines(0).Lines
@@ -3490,7 +3490,7 @@ msgstr "Большинство Кракенов футунари, это уве�
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",415BAAD3485DF4862A1042A34A209E90"
 msgid "Perhaps a quick flight up to Climax Peak is in order, there's bound to be a dumb Titan lumbering about."
-msgstr "Возможно быстрая пробежка к Пикам Оргазма не помешает, там обязательно найдется тупой Титан неуклюже топающий туда-сюда."
+msgstr "Возможно слетаю по-быстрому к Пикам Оргазма, там обязательно найдется тупой Титан неуклюже топающий туда-сюда."
 
 #. Key:	4163AB5147C585FA2B2677AB39C31FC2
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcAkabekoCheck.Default__OrcAkabekoCheck_C.SessionData.Lines(1).Lines
@@ -3833,7 +3833,7 @@ msgstr "Ух ты, Кентавр!"
 #: /Game/Dialogue/Fesssi/Default/FesssiHowLong.Default__FesssiHowLong_C.SessionData.Lines(5).Lines
 msgctxt ",47464D7B43F2BD56B082E8AB7F91F25E"
 msgid "Damn those Cockblock Gates... we never asked for those. Imagine if the ancient builders of the world made something useful, like a spell to give futas a scrotum."
-msgstr "Грёбаные обламывающие врата... мы не просили об этом. Лучше бы древние сделали что-то полезное например, заклинание что дало бы футам яйца."
+msgstr "Грёбаные обламывающие врата... мы не просили о них. Лучше бы древние сделали что-то полезное например, заклинание что дало бы футам яйца."
 
 #. Key:	47621D134EBA27E9FF0A6888F1D9CF3D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -5968,7 +5968,7 @@ msgstr "Мы превращаем сперму, которая пойдет вп
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_T.Default__DMDefault_RL5_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",709579B446D8D4D2C2F3EE98857ED27A"
 msgid "Bring it on dragon."
-msgstr "Принеси это дракону."
+msgstr "За дело, дракон."
 
 #. Key:	709C1A4748A9B0773A823DB8EB5B31E0
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeHadSex01.Default__BeeHadSex01_C.SessionData.Lines(2).Lines
@@ -9902,7 +9902,7 @@ msgstr "Ну и чего же ты ждешь? Входи же!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",B825E1564FCBA4D960D238AFD10804AC"
 msgid "The lucky Titan's cock won't be able to keep up!"
-msgstr "Член везучего Титана перестанет справляться!"
+msgstr "Член Титана которому перепадет такого не выдержит!"
 
 #. Key:	B8297A054AB04B137F3266B6480756F5
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(3).Lines
@@ -10742,7 +10742,7 @@ msgstr "Вокруг Гедона полно секса, чтобы привле
 #: /Game/Dialogue/Widow/Default/WidowKeystone.Default__WidowKeystone_C.SessionData.Lines(2).Lines
 msgctxt ",C94B41FA4308FFD8A8F985BFB7D0411F"
 msgid "She landed in my web with a thunderous crash, and ruined the whole thing."
-msgstr ""
+msgstr "Она с грохотом свалилась в мою паутину и порвала ее всю."
 
 #. Key:	C98355D84D2C12D36A73BC8F7D73D2B1
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(3).LinesToFemale
