@@ -7270,7 +7270,7 @@ msgstr "В этом мире нет живорождения, нет эмбри�
 #: /Game/Dialogue/Widow/Default/WidowDefault01.Default__WidowDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",8839893A45BD5AC8569BAD8798ACEE15"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	887E11C1414E35B9B9420BA80FD5A411
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(13).Lines
@@ -12814,7 +12814,7 @@ msgstr "Почуствуй мой язык, как он скользит меж 
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(0).TextEntries
 msgctxt ",ECE1ACB84FCF8F8A06C64385D7909E98"
 msgid "We need another wild one to extract fluids from! You may think such a thing would be easy, but Falene and I go through... many fluids. Don't ask! Besides, I'm too small to do any real fluid harvesting remember?! That's what big human breeders are for. AND YES IN CASE YOU WERE WONDERING, I PINNED THIS ON THE BOARD MYSELF... using a box. I don't need any help from tall folk!!  -Camilla"
-msgstr "Нам с Фален нужен еще один нефилим, чтобы надоить из него свежих соков! Ты скажешь что это проще некуда, но мы используем... много соков... Не спрашивай! Короче, я слишком мала, чтобы этим заниматься, понимаешь?! Чего не скажешь о больших людях-селекционерах. И ДА, ЕСЛИ ТЕБЕ ИНТЕРЕСНО, КАК Я ПРИКРЕПИЛА ЭТО ОБЪЯВЛЕНИЕ ТАК ВЫСОКО... просто встала на ящик, в этом мне не нужна помощь высокого человека!! - Камилла"
+msgstr "Нам с Фалин нужен еще один нефилим, чтобы надоить из него свежих соков! Ты скажешь что это проще некуда, но мы используем... много соков... Не спрашивай! Короче, я слишком мала, чтобы этим заниматься, понимаешь?! Чего не скажешь о больших людях-селекционерах. И ДА, ЕСЛИ ТЕБЕ ИНТЕРЕСНО, КАК Я ПРИКРЕПИЛА ЭТО ОБЪЯВЛЕНИЕ ТАК ВЫСОКО... просто встала на ящик, в этом мне не нужна помощь высокого человека!! - Камилла"
 
 #. Key:	ECE912E146D6A887F2F7C39091185320
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(0).Lines
@@ -13640,7 +13640,7 @@ msgstr "Я надеюсь моя игрушка принесла тебе удо
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(1).Lines
 msgctxt ",FCFE3B3D4F76E0D8BBC19BBF1F504CC6"
 msgid "It happens every time I open, you think I would have learned by now."
-msgstr ""
+msgstr "Это происходит всякий раз, когда я открываю, {ты думаешь, я бы уже знала}."
 
 #. Key:	FD102648460B4847C187CA85C454705B
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeMoreHoney.Default__BeeMoreHoney_C.SessionData.Lines(1).Lines
@@ -13668,7 +13668,7 @@ msgstr "Вот, они больше не преграждают твой пут�
 #: /Game/Dialogue/Yasmine/Default/YasmineDefault02.Default__YasmineDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",FD4609F340081E569544E6914EAA6434"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	FD467EAE4829745CF23D4BA9D511E423
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(2).Lines
@@ -13759,7 +13759,7 @@ msgstr "Однако, некоторые из них могут быть сли�
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",FE30CC0F4EC31063CA576A8A6CF941F5"
 msgid "Let us spend the day together, for here in the warmth of this water we can sing again for hours."
-msgstr ""
+msgstr "Давай проведем этот день вместе, в тепле этой воды, мы снова можем петь часами."
 
 #. Key:	FE908E8B4214DDCF1709D284DCA9D0E1
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
@@ -13857,7 +13857,7 @@ msgstr "Большегрудая: Ну очень большая грудь."
 #: /Game/Dialogue/Fesssi/Default/FesssiAreYouOk.Default__FesssiAreYouOk_C.SessionData.Lines(1).Lines
 msgctxt ",FFF6AE0C41E39194F413A28DAC8CD9F5"
 msgid "Give into your desires human. I know you want to mate with all of thisss."
-msgstr ""
+msgstr "Отдайся своим желаниям человека. Я знаю, что ты хочешь овладеть всссем этим."
 
 #. Key:	SpiritFormActivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
@@ -13892,7 +13892,7 @@ msgstr "Нужен ключ-камень."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:380
 msgctxt "ASexyBreedingSystem,IncestDisabledMessage"
 msgid "Incest is not allowed."
-msgstr ""
+msgstr "Инцест запрещен."
 
 #. Key:	IncestMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:432
@@ -13920,7 +13920,7 @@ msgstr "Оба, человекоподобный и звероподобный �
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3212
 msgctxt "ASexyCharacterSystem,SaveBreeder"
 msgid "Appearance has been saved."
-msgstr ""
+msgstr "Внешность сохранена."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3225
@@ -14207,7 +14207,7 @@ msgstr "Королева Роя желает поговорить с тобой.
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:597
 msgctxt "ASexyWorldSystem,DragonSemenTitle"
 msgid "Semen Flowers"
-msgstr ""
+msgstr "Спермацветы"
 
 #. Key:	DryadMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:645
@@ -14242,7 +14242,7 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:679
 msgctxt "ASexyWorldSystem,FesssiTitan"
 msgid "Fat Ass Fesssi's Titan"
-msgstr ""
+msgstr "Титан Тостопопой Фесси"
 
 #. Key:	FesssiTitanTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:680
@@ -14256,7 +14256,7 @@ msgstr "Фессси желает говорить с тобой."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her strong body."
-msgstr ""
+msgstr "Приведи ко мне Вульварга с большой мягкой задницей! Я хочу ощутить ее мягкость, глубоко вонзая свой член и вливая свое семя в ее сильное тело."
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:504
@@ -14340,14 +14340,14 @@ msgstr "Рррр! Выведи нам фертильную самку! Мы хо
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:731
 msgctxt "ASexyWorldSystem,OrcMateTaskReward"
 msgid "Chieftain Xena wishes to speak with you."
-msgstr ""
+msgstr "Вождь Зена хочет поговорить с тобой."
 
 #. Key:	PetraMate
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:753
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:753
 msgctxt "ASexyWorldSystem,PetraMate"
 msgid "Practice Dragon"
-msgstr ""
+msgstr "Практика Дракона"
 
 #. Key:	PetraMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:756
@@ -15110,7 +15110,7 @@ msgstr "Скопировать."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
 msgctxt "CharacterEditor,DefaultBodyTooltip"
 msgid "Reset the body to the default shape."
-msgstr ""
+msgstr "Восстановить форму по умолчанию."
 
 #. Key:	DetailsWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:593
@@ -15124,7 +15124,7 @@ msgstr "Детали"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:624
 msgctxt "CharacterEditor,EditTraits"
 msgid "Traits and States"
-msgstr ""
+msgstr "Черты и Состояния"
 
 #. Key:	ExoticTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:215
@@ -15229,7 +15229,7 @@ msgstr "Покинуть"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:127
 msgctxt "CharacterEditor,LeaveButtonTooltip"
 msgid "Exit the editor. Unsaved changes will be lost."
-msgstr ""
+msgstr "Закрыть редактор. Несохраненные изменения будут потеряны."
 
 #. Key:	LoadUsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:159
@@ -15292,7 +15292,7 @@ msgstr "Соски"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:184
 msgctxt "CharacterEditor,PasteTooltip"
 msgid "Paste copied data.\nWARNING: This will overwrite the selected category, and might look terrible on different variants."
-msgstr ""
+msgstr "Вставить скопированные данные. \ NВНИМАНИЕ: Данные будут перезаписаны что может привести к неожиданным результатам."
 
 #. Key:	PresetFlags
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:618
@@ -15313,7 +15313,7 @@ msgstr "Сохранить настройки"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:398
 msgctxt "CharacterEditor,PropagatePresetTooltip"
 msgid "Set all of this variant's presets to match the current body shape."
-msgstr ""
+msgstr "{Применить настройки к текущей форме тела.}"
 
 #. Key:	RenameTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
@@ -15327,7 +15327,7 @@ msgstr "Переименовать персонажа."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:266
 msgctxt "CharacterEditor,SaveBreederTooltip"
 msgid "Save current appearance."
-msgstr ""
+msgstr "Сохранить текущую внешность."
 
 #. Key:	SaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:662
@@ -15523,28 +15523,28 @@ msgstr "Перезаписать сохранённую игру?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
 msgctxt "ConfirmationBox,PresetOverwriteConfirm"
 msgid "Preset data will be overwritten with defaults, this cannot be undone."
-msgstr ""
+msgstr "Данные будут перезаписаны значениями по умолчанию, это действие нельзя отменить."
 
 #. Key:	PresetOverwriteTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:136
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:136
 msgctxt "ConfirmationBox,PresetOverwriteTitle"
 msgid "Overwrite Preset Shape?"
-msgstr ""
+msgstr "Перезаписать установки? "
 
 #. Key:	PresetPropagateConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:142
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:142
 msgctxt "ConfirmationBox,PresetPropagateConfirm"
 msgid "All presets for this variant will be overwritten with the current body shape, this cannot be undone."
-msgstr ""
+msgstr "Все установки для этого варианта будут перезаписаны текущими данными, это действие нельзя отменить."
 
 #. Key:	PresetPropagateTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:141
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:141
 msgctxt "ConfirmationBox,PresetPropagateTitle"
 msgid "Propagate Preset Shape?"
-msgstr ""
+msgstr "Распространить выбранную настройку?"
 
 #. Key:	ReleaseConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:122
@@ -16293,14 +16293,14 @@ msgstr "Оставить данного отпрыска на своём ран�
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:63
 msgctxt "Offspring,BackButtonTitleTooltip"
 msgid "Return to the gallery."
-msgstr ""
+msgstr "Вернуться к галереи."
 
 #. Key:	BackTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:62
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:62
 msgctxt "Offspring,BackTitle"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:71
@@ -16398,7 +16398,7 @@ msgstr "Переименовать"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1055
 msgctxt "ResourceList,ActionEditBreeder"
 msgid "Edit Appearance"
-msgstr ""
+msgstr "Изменить внешность"
 
 #. Key:	ActionGiveFavorite
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1092
@@ -16475,7 +16475,7 @@ msgstr "Собрать семя (Блоссом)"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1189
 msgctxt "ResourceList,ActionRBJ"
 msgid "Spontaneous Blow Job"
-msgstr ""
+msgstr "Неожиданный Отсос"
 
 #. Key:	ActionRelease
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1082
@@ -16706,14 +16706,14 @@ msgstr "Женщины и футанари могут появится с чер
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,Incest"
 msgid "Incest"
-msgstr ""
+msgstr "Инцест"
 
 #. Key:	IncestHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,IncestHelp"
 msgid "Allow sex scenes for related characters."
-msgstr ""
+msgstr "Разрешить секс между родственниками."
 
 #. Key:	KeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -16762,14 +16762,14 @@ msgstr "Общая громкость"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,MixHelp"
 msgid "Offspring colors will be blended from parents."
-msgstr ""
+msgstr "Окрас потомства будет наследоваться от родителей. "
 
 #. Key:	MixOffspring
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,MixOffspring"
 msgid "Blend Offspring Colors"
-msgstr ""
+msgstr "Смешивать окрас потомства"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:564
@@ -16818,7 +16818,7 @@ msgstr "Беременность"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:110
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 5 days to summon their offspring, and the belly will morph to reflect this."
-msgstr ""
+msgstr "Самке нефелимов потребуется 5 дней, чтобы призвать потомство, размер живота отражает близость призыва."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:417
@@ -17000,14 +17000,14 @@ msgstr "Выбрать {дающего}"
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:86
 msgctxt "SSexyGalleryMenu,OffspringButtonTitle"
 msgid "Make Offspring"
-msgstr ""
+msgstr "{Сделать потомство}"
 
 #. Key:	OffspringButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
 msgctxt "SSexyGalleryMenu,OffspringButtonTooltip"
 msgid "See what the selected mates would produce."
-msgstr ""
+msgstr "Проверить потомство от выбранных нефелимов."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:133
@@ -17392,7 +17392,7 @@ msgstr "{Футанари используют SS TG.}"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1082
 msgctxt "SSexySettingsMenu,ProudMother"
 msgid "Your mother would be so proud."
-msgstr ""
+msgstr "{Ваша мать была бы так горда.}"
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:35
