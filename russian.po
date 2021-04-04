@@ -14354,7 +14354,7 @@ msgstr "Практика Дракона"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:756
 msgctxt "ASexyWorldSystem,PetraMateTask"
 msgid "Pawsmaati gave me the task of practicing her lesson with a \"winged mountain maiden\"!"
-msgstr "Лапосваати дала мне задание отработать свой урок с \"крылатой горной девой\"!"
+msgstr "Лапорваати дала мне задание отработать свой урок с \"крылатой горной девой\"!"
 
 #. Key:	PetraMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:754
