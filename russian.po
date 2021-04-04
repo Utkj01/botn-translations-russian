@@ -13507,7 +13507,7 @@ msgstr "Ооох да... Ааах..."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",FAF0FA2D4B10AE21D5D8D2A27EAE488D"
 msgid "Perhaps next time I will indulge myself and not go so easy on you..."
-msgstr ""
+msgstr "Может быть, в следующий раз я побалую себя и буду с тобой жестче..."
 
 #. Key:	FAF57AE645B3D2B5A5373CA6FA1C5EA6
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadFlowers.Default__DryadFlowers_C.SessionData.Lines(1).Lines
@@ -14235,7 +14235,7 @@ msgstr "Осенняя медоносная пчела"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:682
 msgctxt "ASexyWorldSystem,FessiTitanTask"
 msgid "Sexy human, my goddess hindquarters have rendered me sssstuck. Breed me a strong Titan capable of freeing me from my cave. Hiss!"
-msgstr ""
+msgstr "Желанный человек, мой... хвост волей богини зассстрял. Сдлеай мне сильного Титана, способного освободить меня из этой пещеры. Шшшш."
 
 #. Key:	FesssiTitan
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:679
@@ -14354,7 +14354,7 @@ msgstr "Практика Дракона"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:756
 msgctxt "ASexyWorldSystem,PetraMateTask"
 msgid "Pawsmaati gave me the task of practicing her lesson with a \"winged mountain maiden\"!"
-msgstr ""
+msgstr "Лапосваати дала мне задание отработать свой урок с \"крылатой горной девой\"!"
 
 #. Key:	PetraMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:754
@@ -15299,7 +15299,7 @@ msgstr "Вставить скопированные данные. \ NВНИМА�
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:618
 msgctxt "CharacterEditor,PresetFlags"
 msgid "Flags"
-msgstr ""
+msgstr "Метки"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:632
