@@ -1,18 +1,17 @@
+﻿# Radiant French (France) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
-"POT-Creation-Date: 2021-02-21 04:12\n"
-"PO-Revision-Date: 2021-04-20 13:09+0200\n"
+"POT-Creation-Date: 2021-06-14 02:04\n"
+"PO-Revision-Date: 2021-06-14 02:04\n"
 "Language-Team: \n"
-"Language: fr_FR\n"
+"Language: fr-FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Last-Translator: \n"
-"X-Generator: Poedit 2.3.1\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -100,8 +99,7 @@ msgstr "Ah, alors je suppose que tu es comme la plupart des @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "Crique du Ravissement"
@@ -689,8 +687,7 @@ msgstr "Incroyable ... Ce monde est rempli d'idiots."
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "Nymphomane"
@@ -711,8 +708,7 @@ msgstr "Miaou ... D'aussi loin que je me souvienne, personne n'y est allé depui
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "Stérile: Ne peut produire de descendance."
@@ -964,8 +960,7 @@ msgstr "Nos cœurs sont constamment à la recherchent de plaisir !"
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
-#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone
-#: [Script Bytecode]
+#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
 msgstr "Clé de voûte obtenue."
@@ -1252,8 +1247,7 @@ msgstr "C'est un fait, le sperme de @MONSTER_RACE@ est une substance puissante, 
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "De valeur: Valeur augmentée de 35%."
@@ -1511,8 +1505,8 @@ msgid "Mermaids are unique Formurians, we hear frequencies most others cannot."
 msgstr "Les sirènes sont des Formurians uniques, nous entendons des fréquences que la plupart n'entendent pas."
 
 #. Key:	1DB7FBDD4A80D06FCF9019965B0E0008
-#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
-#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
+#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
+#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1DB7FBDD4A80D06FCF9019965B0E0008"
 msgid "Ye drank so much for a wee lass!"
 msgstr "T'en a bu tellement pour une p'tite mignonne !"
@@ -1645,8 +1639,7 @@ msgstr "Voudrais-tu ... Miaou ... Aider la pauvre Cassie avec ce problème ?"
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "Généreux : Donne le double d'XP au partenaire mais ne reçoit pour lui-même que la moitié."
@@ -1765,8 +1758,7 @@ msgstr "Depuis combien de temps es-tu coincée ?"
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "Libidineux: Perd 35% de moins de luxure pendant l'accouplement."
@@ -1819,6 +1811,13 @@ msgstr "Cela rend ton travail beaucoup plus facile !"
 msgctxt ",2262A6F64B6CB59E0A4D93A13609ED6A"
 msgid "Human cum tastes just like I dreamt it would!"
 msgstr "Le sperme humain a le même goût que dans mes rêves !"
+
+#. Key:	22657D9344EA0FA193ED4BB66564D308
+#. SourceLocation:	/Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.Description
+#: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.Description
+msgctxt ",22657D9344EA0FA193ED4BB66564D308"
+msgid "Risu body fluids."
+msgstr ""
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -1962,8 +1961,7 @@ msgstr "Arbre à Neko"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "Stoïque: Augmente la luxure maximale de 20%."
@@ -2033,8 +2031,7 @@ msgstr "Les racines bloquent cette porte."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "Taille Enorme"
@@ -2181,8 +2178,7 @@ msgstr "Ils ont trouvé tous les moyens de me faire jouir, et c'étaiiiiiit magn
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "Plantureux: A hérité de grosses fesses."
@@ -2217,8 +2213,7 @@ msgstr "Bien sûr, je pourrais aller voir par moi-même, mais je suis trop feign
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "Minuscule : A peine 1 mètre 22."
@@ -3025,8 +3020,8 @@ msgstr "J'ai décidé d'utiliser mon pouvoir de dryade pour produire des fruits 
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",38F493C44D198004851E1399B9B3A835"
-msgid "It's been sometime since I have been mouted, so I might get rough!"
-msgstr "Cela fait longtemps que je ne me suis pas faite montée, je pourrais devenir brutale !"
+msgid "It's been sometime since I have been mounted, so I might get rough!"
+msgstr ""
 
 #. Key:	391607BA4B3A996D1551BC9B7E71F385
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.RaceName
@@ -3240,8 +3235,7 @@ msgstr "Parles-moi des araignées."
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "Remarquable : A hérité d'une couleur vive peu commune."
@@ -3262,8 +3256,7 @@ msgstr "Cela devrait t'apprendre à recroiser cette ponette ... Je veux dire cet
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "Stoïque"
@@ -3382,8 +3375,7 @@ msgstr "Les Démons préfèrent les coulées de lave de l'Escarpée Gémissante.
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "Abomination"
@@ -3726,8 +3718,7 @@ msgstr "Elle a assigné à chaque monde un Séraphin spécifique, un archange, p
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "Joufflu"
@@ -3794,6 +3785,13 @@ msgstr "Une \"aide\" extérieure est nécessaire, tu as l'air délicieux là tou
 msgctxt ",464B0F3B450345A0F3EA8E98C67A5248"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
 msgstr "Mon nom est Falene, la spécialiste en chef des @MONSTER_NAME@ dans tout @WORLD_NAME@."
+
+#. Key:	465ADEB24CD3DDFD522F83BA4982D09B
+#. SourceLocation:	/Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.Description
+#: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.Description
+msgctxt ",465ADEB24CD3DDFD522F83BA4982D09B"
+msgid "This allows you to catch and store all variants of Risu."
+msgstr ""
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -3881,8 +3879,7 @@ msgstr "Tu peux boire mon lait !"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "Stérile"
@@ -3917,8 +3914,7 @@ msgstr "Pour une fois, j'aimerais que quelqu'un me lave. Si c'est possible, él�
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "Ville d'Hedon"
@@ -3988,8 +3984,7 @@ msgstr "Retire tes vêtements, tu dois être nu."
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "Débauchée"
@@ -4367,16 +4362,14 @@ msgstr "Ah! La princesse Mirru de la mer ne dévoilera rien de tel !"
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "Grand: Environ 2 mètre 44."
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "Enduit"
@@ -4390,8 +4383,7 @@ msgstr "Quand suffisamment de semence s'accumule, en général dans l'eau, il y 
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "Abomination: Celui-ci est le produit de l'inceste."
@@ -4433,8 +4425,7 @@ msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "Bien monté"
@@ -4588,8 +4579,7 @@ msgstr "Tout le monde voulait \"passer un moment intime\" avec moi, c'était mag
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "Sadique: Réduit la loyauté des partenaires, mais gagne pour lui-même deux fois plus de XP."
@@ -4624,8 +4614,7 @@ msgstr "*Bâillement*"
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "La Faille Vierge"
@@ -4751,8 +4740,7 @@ msgstr "C'est bon... je veux vraiment ton lait."
 
 #. Key:	58F2132B4EDA616F5343D38BA68240E2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.DisplayName
 msgctxt ",58F2132B4EDA616F5343D38BA68240E2"
 msgid "Gemini"
 msgstr "Gemini"
@@ -4808,8 +4796,7 @@ msgstr "Ahh... ma langue de Lamia va te faire tant de bien..."
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "Mince: Celui-ci a moins de graisse."
@@ -5005,8 +4992,7 @@ msgstr "Je mouille rien qu'en pensant à ta grosse bite qui va m'ensemencer."
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "Grande Taille"
@@ -5171,6 +5157,13 @@ msgstr "Pourquoi m'as-tu appelé Maître ?"
 msgctxt ",627219374671317BBA6148B048EA7B8F"
 msgid "Such creations roamed in weak forms purely by instinct, what you call animals."
 msgstr "De telles créations ont erré sous une forme chétive purement par instinct, c'est ce que vous appelez des animaux."
+
+#. Key:	6272317B4A4AE3E76212F6A3B94CDAAA
+#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
+#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
+msgctxt ",6272317B4A4AE3E76212F6A3B94CDAAA"
+msgid "Such strength... ahhh!"
+msgstr ""
 
 #. Key:	62B5CF3C40893752840CAEBF4C8159C3
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
@@ -5391,8 +5384,7 @@ msgstr "Oh Maître... vous êtes trop bon avec moi."
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "Crasseux"
@@ -5553,8 +5545,7 @@ msgstr "Ohhh oui... miaou... ahhh..."
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "Charmeur"
@@ -5729,8 +5720,7 @@ msgstr "Selon les rumeurs, si tu vas suffisamment loin, tu trouveras l'enfer lui
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "Juteux: Produit 50% de fluides corporels supplémentaire lors de la récolte."
@@ -5947,8 +5937,7 @@ msgstr "Tu fabriques des perles ?"
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "Généreux"
@@ -6172,8 +6161,7 @@ msgstr "Ahhh oui ! Remplis-moi de ta semence humaine... ohhh."
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
 msgstr "Pic de l'Orgasme"
@@ -6292,8 +6280,7 @@ msgstr "Le Pic de l'Orgasme est désormais accessible."
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
 msgstr "Désert Obscène"
@@ -6356,8 +6343,7 @@ msgstr "*SANGLOTS INCONTROLABLES*"
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "Atypique: A hérité d'une taille rare pour sa variante."
@@ -6413,16 +6399,14 @@ msgstr "Leur faire prendre un bain s'ils sont sales bien sûr. Heureusement les 
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "Grande Taille"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "Mince"
@@ -6541,8 +6525,7 @@ msgstr "Je veux traverser ton portail... de la chatte."
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "Juteux"
@@ -6696,8 +6679,7 @@ msgstr "Sens ma douce langue caresser ta bite pendant que ton gland touche le fo
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "Les Pâturages du Plaisir"
@@ -6739,8 +6721,7 @@ msgstr "Gère tes Sylvestres"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "Divergent"
@@ -6866,8 +6847,7 @@ msgstr "C'est l'ancien temple parce que je suppose que le nouveau est meilleur."
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "Ferme"
@@ -6958,8 +6938,7 @@ msgstr "Bon… viens-tu pour offrir des @MONSTER_RACE@ ?"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "Bois de la luxure"
@@ -7071,16 +7050,14 @@ msgstr "Grrrrrrr !!! Ahahah ! Petit humain faiblard."
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "Sadique"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "Petite Taille"
@@ -7472,8 +7449,7 @@ msgstr "Une fois le corps poussé au-delà de ses capacités, il perdra conscien
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "Fertile: La fertilité double les chances de tomber enceinte après des accouplements répétés."
@@ -7487,8 +7463,7 @@ msgstr "Ils restent à la maison pour servir et donner du plaisir à mère... oh
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "Epicurien"
@@ -7501,8 +7476,8 @@ msgid "Your fluids have nourished me so well Master..."
 msgstr "Votre jus m'a si bien nourrie Maître..."
 
 #. Key:	8B99E6244548DDC5BAF8798C9395ED84
-#. SourceLocation:	/Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.TypeDisplay
-#: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.TypeDisplay
+#. SourceLocation:	/Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.TypeDisplay
+#: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.TypeDisplay
 msgctxt ",8B99E6244548DDC5BAF8798C9395ED84"
 msgid "Nephelym Barn"
 msgstr "Grange de Nephilims"
@@ -7747,8 +7722,7 @@ msgstr "Ils t'adorent, même du Néant, éleveur. Ton but est de les amener en c
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "Fertile"
@@ -7797,8 +7771,7 @@ msgstr "*Suce* *Suce*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr "Epicurien: Obtiens l'XP qui aurait dû être donnée au partenaire."
@@ -7875,8 +7848,7 @@ msgstr "Bien sûr ! Je suis un lapin, donc sauter là-haut n'est pas un problèm
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "Hominal: A hérité de plus de caractéristiques humaines."
@@ -8037,8 +8009,7 @@ msgstr "Tu peux avoir mon sperme !"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "Nymphomane: La loyauté est augmentée deux fois plus vite après avoir fait l'amour."
@@ -8115,8 +8086,7 @@ msgstr "Jus de Harpie."
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "Clairière Ésotérique"
@@ -8221,8 +8191,7 @@ msgstr "Cela te permet de capturer et conserver toutes les sortes de Foxen."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "Agile"
@@ -8501,8 +8470,8 @@ msgid "The offspring of the Dragon Matriarch will be protected by any means nece
 msgstr "La progéniture de la Matriarche des Dragons sera protégée par tous les moyens nécessaires."
 
 #. Key:	9BDBC0EB4511337E7515C89A6620BBA0
-#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(3).Lines
-#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(3).Lines
+#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
+#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",9BDBC0EB4511337E7515C89A6620BBA0"
 msgid "Come back and drink up anytime."
 msgstr "Reviens boire quand tu veux."
@@ -8635,8 +8604,7 @@ msgstr "Mais il est temps de changer ... il est temps de parcourir à nouveau la
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "Enorme: Environ 3 mètres 5."
@@ -8671,16 +8639,14 @@ msgstr "J'ai déjà envie de me soulager à nouveau… vous les humains, vous av
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "Agile: La dextérité réduit le coût en désir des actions en pourcentage."
 
 #. Key:	9F7E04704B60E2F2EC07E9B3308B36FE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.HelpText
 msgctxt ",9F7E04704B60E2F2EC07E9B3308B36FE"
 msgid "Surprise: This one was the product of surprise sex."
 msgstr "Surprise: Celui-ci était le produit d'un sexe surprise."
@@ -8694,8 +8660,7 @@ msgstr "Ouais ... je suppose que tu as raison."
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "Massif: Environ 4 mètres 57."
@@ -8919,8 +8884,7 @@ msgstr "Oh, quel humain tout dégoûtant... qu'as-tu donc fait?"
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "Nourrissant"
@@ -9466,8 +9430,7 @@ msgstr "Peut-être aimerais-tu mettre cette bite dans ma chatte rayonnante d'Elf
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "Divergent: La descendance a la possibilité de générer une caractéristique aléatoire lors de sa naissance."
@@ -9502,8 +9465,7 @@ msgstr "Ce sont des @MONSTER_RACE@ sauvages que tu vas capturer et faire s'accou
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "Hominal"
@@ -9561,8 +9523,8 @@ msgstr "Qu'est-ce que tu attends ? Viens !"
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B16A16AD4DAD11735CC38DBC5E9237B1"
-msgid "It's been sometime since I have been mouted, so I might get rough!"
-msgstr "Cela fait longtemps que je ne me suis pas faite montée, je pourrais devenir brutale !"
+msgid "It's been sometime since I have been mounted, so I might get rough!"
+msgstr ""
 
 #. Key:	B17C429C4AE53B8CA98F5E8166D598D2
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -9608,8 +9570,7 @@ msgstr "Quand nous nous faisons mutuellement plaisir, la Déesse le partage."
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "Remarquable"
@@ -9693,8 +9654,7 @@ msgstr "Fern a besoin de lait humain pour grandir et devenir une grande Alraune!
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "Précieux"
@@ -9719,13 +9679,6 @@ msgstr "Ça devient étrange..."
 msgctxt ",B3B9D4DE46AC98F7EC5432A2F06C92D6"
 msgid "Also, you will be making more cute little @MONSTER_RACE@ for me to \"play\" with!"
 msgstr "Tu vas faire plein de petits et mignons @MONSTER_RACE@ avec lesquels je pourrai \"jouer\"!"
-
-#. Key:	B40913204435868CB2B615986906CFE4
-#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(1).LinesToFuta
-#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(1).LinesToFuta
-msgctxt ",B40913204435868CB2B615986906CFE4"
-msgid "I've taken advantage of that massive cock many times."
-msgstr "J'ai profité de cette énorme bite plusieurs fois."
 
 #. Key:	B40DA93F4D87A08B36AB2198B2D523AF
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(2).Lines
@@ -9925,8 +9878,7 @@ msgstr "Eh bien humain, tu devais vraiment être désespéré pour donner ton am
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "Hybrides"
@@ -9947,8 +9899,7 @@ msgstr "Fais encore l'amour avec moi @BREEDER_NAME@, tordons-nous de plaisir sou
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "Joufflu: Celui-ci est plus potelé."
@@ -10291,8 +10242,7 @@ msgstr "Tu viens de devenir le nouvel habitant de @WORLD_NAME@ !"
 
 #. Key:	BDFBF2444482EC9CA1B83B92138A12DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.HelpText
 msgctxt ",BDFBF2444482EC9CA1B83B92138A12DD"
 msgid "Gemini: This one has an identical twin."
 msgstr "Gémeaux: Celui-ci a un jumeau identique."
@@ -10397,8 +10347,7 @@ msgstr "Maintenant que j'ai un humain avec lequel expérimenter, j'ai hâte de t
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "Débauché: La descendance a 20% de chance d'ignorer les effets négatifs dû à la consanguinité."
@@ -10746,6 +10695,13 @@ msgctxt ",C73CE27C41A91E73C54B58B65E56049E"
 msgid "You seek to learn a new way to use your pleasure hole."
 msgstr "Tu cherches à connaître une nouvelle utilisation de ta boîte à malice."
 
+#. Key:	C760FF8B46FA4C58A2012CB2F41CE6F8
+#. SourceLocation:	/Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.RaceName
+#: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.RaceName
+msgctxt ",C760FF8B46FA4C58A2012CB2F41CE6F8"
+msgid "Risu"
+msgstr ""
+
 #. Key:	C77FA616486308414031F29069272188
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -10755,16 +10711,14 @@ msgstr "Rechargeons ma forme spirituelle."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "Exotique"
 
 #. Key:	C7EBEA0D46D85CCCBE6EDDB796DAB929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.DisplayName
 msgctxt ",C7EBEA0D46D85CCCBE6EDDB796DAB929"
 msgid "Surprise"
 msgstr "Surprise"
@@ -10855,8 +10809,7 @@ msgstr "Je sais que tu ne te rappelles de rien, mais essayes de te souvenir que 
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "Taille Normale"
@@ -10980,6 +10933,13 @@ msgctxt ",CCBDEE9E4366EC8D550F4DB7D8C546F8"
 msgid "Then I pose seductively in front whatever she brought back, and she records how it reacts."
 msgstr "Ensuite je prends des poses séduisantes devant tout ce qu'elle ramène, elle prend note des réactions."
 
+#. Key:	CCBE2DF04F273EE3D33DE583845CB545
+#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToMale(0).LinesToMale
+#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToMale(0).LinesToMale
+msgctxt ",CCBE2DF04F273EE3D33DE583845CB545"
+msgid "Ye drank so much for a wee lad!"
+msgstr ""
+
 #. Key:	CCFE0CB04C0DD4BC550FE6AF03BFABB3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
@@ -11052,8 +11012,7 @@ msgstr "Tu peux l'avoir si tu m'aides à résoudre un petit problème."
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "Nourrissant: La descendance hérite de statistiques 20% plus hautes."
@@ -11193,8 +11152,7 @@ msgstr "Les centaures peuvent devenir agressifs quand ils ne se sont pas soulag�
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
 msgstr "Plateau Sensuel"
@@ -11222,16 +11180,14 @@ msgstr "Cela devrait t'apprendre à recroiser cette ponette ... Je veux dire cet
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "Normal: Environ 1 mètre 83."
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "Hybride: Celui-ci est un mélange entre deux races."
@@ -11448,8 +11404,7 @@ msgstr "Puis-je avoir la clé de voûte ?"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "Musclé: La force augmente l'XP donné aux partenaires pendant l'accouplement en pourcentage."
@@ -11574,8 +11529,8 @@ msgid "Well what are you waiting for? Come on in!"
 msgstr "Eh bien, qu'est-ce que tu attends ? Viens !"
 
 #. Key:	D75F1B6640E7E50789CBE7B4CBEE0FF3
-#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
-#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
+#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(1).LinesToFuta
+#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",D75F1B6640E7E50789CBE7B4CBEE0FF3"
 msgid "The random mounts I get when I'm not paying attention never gets old."
 msgstr "Ceux qui arrivent à me monter lorsque je baisse ma garde ne font pas long feu."
@@ -11714,16 +11669,15 @@ msgid "*Purr*"
 msgstr "*Ronronne*"
 
 #. Key:	D9124E55481B91E85A0884AA58197D19
-#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(2).Lines
-#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(2).Lines
+#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
+#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",D9124E55481B91E85A0884AA58197D19"
 msgid "'Mai milk was tasty aye? Plenty more where that came from!"
 msgstr "Mon lait était délicieux hein ? Il en reste encore plus à la source !"
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "Terre des ruches"
@@ -12003,11 +11957,17 @@ msgstr "Soumets-toi humain... Je ne peux plus contrôler mes désirs !"
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "Plantureuse"
+
+#. Key:	DC9E09AE4BC0BE32644CA59E071AE774
+#. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.BlockMessage
+#: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.BlockMessage
+msgctxt ",DC9E09AE4BC0BE32644CA59E071AE774"
+msgid "Honeycomb blocks this gate."
+msgstr ""
 
 #. Key:	DCA3C7F14DDEBDAEB595FB95AA6A4F3C
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -12263,8 +12223,7 @@ msgstr "Lorsqu'ils ont construit ce nouveau temple, la porte fût scellée... C'
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "Glissant: A hérité d'une peau huilée glissante."
@@ -12375,8 +12334,8 @@ msgid "I love it... it makes me so happy!"
 msgstr "J'adore… ça me rend tellement heureuse !"
 
 #. Key:	E456792841D9433268D3C186837C9B2F
-#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(4).LinesToFuta
-#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(4).LinesToFuta
+#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
+#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",E456792841D9433268D3C186837C9B2F"
 msgid "The perfect toy for such a boring task. You have my thanks."
 msgstr "Le jouet parfait pour une tâche aussi redondante. Accepte mes remerciements."
@@ -12446,8 +12405,7 @@ msgstr "Bien joué @BREEDER_NAME@, tu as restauré les liens de mon monde au Né
 
 #. Key:	E4F530D54D663ADF27773EB024081B52
 #. SourceLocation:	/Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
-#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script
-#: Bytecode]
+#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
 msgctxt ",E4F530D54D663ADF27773EB024081B52"
 msgid "Beautiful Pearl acquired."
 msgstr "Magnifique perle obtenue."
@@ -12545,8 +12503,7 @@ msgstr "Un choix avisé humain, la déesse a déjà accordé ce pouvoir aux @MON
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "Atypique"
@@ -12644,8 +12601,7 @@ msgstr "Les Reliques des Amoureux sont désormais accessibles."
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "Exotique: A hérité de plus de caractéristiques."
@@ -12666,8 +12622,7 @@ msgstr "Comme promis, j'ai ta clé de voûte. Mais n'hésites pas à revenir me 
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "Musclé"
@@ -12709,11 +12664,17 @@ msgstr "Nous aimons nous accoupler avec d'autres @MONSTER_RACE@."
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "Reliques des Amoureux"
+
+#. Key:	E97D557A4CC9B101F2F7E1A43C6C27B9
+#. SourceLocation:	/Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.DisplayName
+#: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.DisplayName
+msgctxt ",E97D557A4CC9B101F2F7E1A43C6C27B9"
+msgid "Risu Hutch"
+msgstr ""
 
 #. Key:	E999DFEA4E92B84DC1426192191A75AA
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadFatAssLamia.Default__DryadFatAssLamia_C.SessionData.Lines(3).Lines
@@ -12785,6 +12746,13 @@ msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
 msgstr "Cela te permet de capturer et conserver toutes les sortes de Démon."
 
+#. Key:	EB1406C440D3EF18AF3C78B296137764
+#. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.RisuHutch.ManageActionMessage
+#: /Game/World/Overworld.Overworld:PersistentLevel.RisuHutch.ManageActionMessage
+msgctxt ",EB1406C440D3EF18AF3C78B296137764"
+msgid "Manage your Risu"
+msgstr ""
+
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -12836,8 +12804,7 @@ msgstr "Ah, je pourrais te permettre de passer, mais... il y a quelque chose que
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "Bien monté: A hérité d'un gros organe génital."
@@ -12984,8 +12951,7 @@ msgstr "Oh Maître, vous m'avez si bien nourrie."
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "Charmeur: La séduction augmente l'XP reçue pendant l'accouplement en pourcentage."
@@ -13153,8 +13119,7 @@ msgstr "L'Ejaculum-phallis est le produit de la semence de Dragon. Si tu m'en ap
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "Petit: Environ 1 mètre 52."
@@ -13195,8 +13160,8 @@ msgid "So @MONSTER_RACE@ are really horny..."
 msgstr "Les @MONSTER_RACE@ sont donc très excités..."
 
 #. Key:	F2106FBD47C33358DD8CBE9C4F4ABE40
-#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(1).Lines
-#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(1).Lines
+#. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
+#: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",F2106FBD47C33358DD8CBE9C4F4ABE40"
 msgid "Ahhh... I sure do appreciate tak'n yer time to please this old milkmaid."
 msgstr "Ahhh… j'apprécie vraiment qu'tu prennes sur ton temps pour faire plaisir à ta laitière préférée."
@@ -13221,13 +13186,6 @@ msgstr "S'il vous plaît, donnez toutes les gouttes à Fern. Fern grandit plus v
 msgctxt ",F2F1647F46528F5AE94959AFFBE62500"
 msgid "Human! *snarl*"
 msgstr "Humain ! *Grognements*"
-
-#. Key:	F320BEE04338B72C9D0242A03C05EBBD
-#. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
-#: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
-msgctxt ",F320BEE04338B72C9D0242A03C05EBBD"
-msgid "Such a large dick penetrating my deep vagina... ahhh!"
-msgstr "Je sens bien ton gros chibre me pénétrer profondément... aaah!"
 
 #. Key:	F37DF7694328A3895D54B3BC4DB0147D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
@@ -13504,16 +13462,14 @@ msgstr "MIAOU !!! Cassie va te remplir de sperme !"
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "Plantureux"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "Crasseux: Les partenaires ont un risque de 20% de se salir, réduisant leur séduction de 50%."
@@ -13737,8 +13693,7 @@ msgstr "À genoux et suce, humain. Engorge toi dans mon miel afin de me satisfai
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "Libidineux"
@@ -13787,8 +13742,7 @@ msgstr "Crois-le ou non, j'étais plus enveloppée avant, depuis j'ai perdu une 
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
-#: Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
 msgstr "L'Escarpée Gémissante"
@@ -13816,8 +13770,7 @@ msgstr "Ce n'était pas dans le but de me manger, ils ont fait beaucoup de chose
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
-#: Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "Taille minuscule"
@@ -13936,8 +13889,7 @@ msgstr "Oh suis-je bête, je ne me suis pas présentée."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
-#: Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Plantureuse: A hérité de gros seins."
@@ -13950,22 +13902,22 @@ msgid "Give into your desires human. I know you want to mate with all of thisss.
 msgstr "Abandonnes-toi à ton désir humain. Je ressens ton envie de copuler."
 
 #. Key:	SpiritFormActivate
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:200
+#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:200
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
 msgstr "Un esprit de Nephilim a fusionné avec {0}"
 
 #. Key:	SpiritFormDeactivate
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:203
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:203
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:207
+#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:207
 msgctxt "ASexyBreederCharacter,SpiritFormDeactivate"
 msgid "The spirit has departed."
 msgstr "L'esprit est parti."
 
 #. Key:	SpiritFormNotEnough
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:191
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:191
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:195
+#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:195
 msgctxt "ASexyBreederCharacter,SpiritFormNotEnough"
 msgid "Not enough spirit."
 msgstr "Pas assez d'esprit."
@@ -13978,43 +13930,43 @@ msgid "A keystone is required."
 msgstr "Une clé de voûte est requise."
 
 #. Key:	IncestDisabledMessage
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:380
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:380
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:399
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:399
 msgctxt "ASexyBreedingSystem,IncestDisabledMessage"
 msgid "Incest is not allowed."
 msgstr "L'inceste n'est pas autorisé."
 
 #. Key:	IncestMessage
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:432
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:432
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:451
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:451
 msgctxt "ASexyBreedingSystem,IncestMessage"
 msgid "This might not turn out well..."
 msgstr "Ça risque de mal finir..."
 
 #. Key:	ReleasedOffspring
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:660
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:660
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:679
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:679
 msgctxt "ASexyBreedingSystem,ReleasedOffspring"
 msgid "Released offspring into the wild."
 msgstr "Progéniture relâchée dans la nature."
 
 #. Key:	BadSettingsMessage
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2130
-#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2130
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2134
+#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2134
 msgctxt "ASexyCharacterSystem,BadSettingsMessage"
 msgid "Both female hominal and exotic variants are disabled, default will be used."
 msgstr "Les variantes hominales et exotiques sont désactivées, les versions par défaut seront utilisées."
 
 #. Key:	SaveBreeder
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3212
-#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3212
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3220
+#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3220
 msgctxt "ASexyCharacterSystem,SaveBreeder"
 msgid "Appearance has been saved."
 msgstr "Apparence sauvegardée."
 
 #. Key:	SpiritForm
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3225
-#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3225
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3236
+#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3236
 msgctxt "ASexyCharacterSystem,SpiritForm"
 msgid "Spirit form has been saved."
 msgstr "Forme spirituelle sauvegardée."
@@ -14034,8 +13986,8 @@ msgid "The Reaper will have her toll..."
 msgstr "La Faucheuse va récupérer son dû..."
 
 #. Key:	NoFuta
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:873
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:873
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:875
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:875
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
 msgstr "Futanari désactivé."
@@ -14069,29 +14021,29 @@ msgid "Lust is required."
 msgstr "Désir nécessaire."
 
 #. Key:	FernThanks
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1392
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1392
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1394
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1394
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave {0} 150 shiny."
 msgstr "Fern a donné 150 pièces brillantes à {0}"
 
 #. Key:	LearnedPosition
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1454
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1454
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1456
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1456
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "{0}'s consciousness has expanded."
 msgstr "La conscience de {0} a été étendue."
 
 #. Key:	NoBathForYou
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1637
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1637
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1639
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1639
 msgctxt "ASexyMonsterSystem,NoBathForYou"
 msgid "Not enough orgasium."
 msgstr "Pas assez d'orgasium."
 
 #. Key:	NoFutaScene
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1620
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1620
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1622
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1622
 msgctxt "ASexyMonsterSystem,NoFutaScene"
 msgid "Futa scene skipped, sex postion learned."
 msgstr "Scène de Futa sautée, position sexuelle apprise."
@@ -14188,64 +14140,64 @@ msgid "Lewd Desert"
 msgstr "Désert Obscène"
 
 #. Key:	BoringCum
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:900
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:900
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:903
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:903
 msgctxt "ASexyRoamingSystem,BoringCum"
 msgid "She wanted more..."
 msgstr "Elle espérait mieux..."
 
 #. Key:	BreederBoringCum
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:900
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:900
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:903
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:903
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
 msgstr "Le Nephilim sauvage espérait mieux...."
 
 #. Key:	BreederClimaxedFirst
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:906
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:906
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:909
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:909
 msgctxt "ASexyRoamingSystem,BreederClimaxedFirst"
 msgid "{0} has climaxed first..."
 msgstr "{0} a joui en premier ..."
 
 #. Key:	BreederLikedCum
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:893
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:893
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:896
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:896
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
 msgstr "Le Nephilim sauvage est satisfait !"
 
 #. Key:	CatchSuccess
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:1112
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:1112
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:1115
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:1115
 msgctxt "ASexyRoamingSystem,CatchSuccess"
 msgid "The wild one has been captured."
 msgstr "Le Nephilim sauvage a été capturé."
 
 #. Key:	LikedCum
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:894
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:894
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:897
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:897
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how {0} tastes!"
 msgstr "Elle adore le goût de {0} !"
 
 #. Key:	RBJStart
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:742
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:742
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:745
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:745
 msgctxt "ASexyRoamingSystem,RBJStart"
 msgid "Spontaneous Blow Job!"
 msgstr "Fellation spontanée !"
 
 #. Key:	SurpriseSexStart
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:742
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:742
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:745
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:745
 msgctxt "ASexyRoamingSystem,SurpriseSexStart"
 msgid "Surprise Sex!"
 msgstr "Sexe surprise !"
 
 #. Key:	SurpriseSexSuccess
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:906
-#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:906
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:909
+#: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:909
 msgctxt "ASexyRoamingSystem,SurpriseSexSuccess"
 msgid "The wild one has climaxed first!"
 msgstr "Le Nephilim sauvage a joui en premier !"
@@ -14345,8 +14297,8 @@ msgstr "Fessi souhaite te parler."
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
-msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her strong body."
-msgstr "Apporte moi une Vulwarg avec un derrière plantureux ! J'ai envie d'enfoncer mon engin bien profondément en elle."
+msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her body."
+msgstr ""
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:504
@@ -14359,8 +14311,8 @@ msgstr "Kybele souhaite te parler."
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
-msgid "Bring to me a Vulwarg with a large fat dick! I wish feel like I'm being mounted by a mighty stallion."
-msgstr "Apporte moi un Vulwarg avec une grosse queue ! J'ai envie d'être montée par un étalon."
+msgid "Bring to me a Vulwarg with massive muscles! I wish feel like I'm being mounted by a mighty stallion."
+msgstr ""
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:503
@@ -14478,38 +14430,22 @@ msgstr "De nouvelles requêtes de reproduction sont arrivées."
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:460
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:460
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid ""
-"{0}\n"
-"{1}\n"
-"{2}"
-msgstr ""
-"{0}\n"
-"{1}\n"
-"{2}"
+msgid "{0}\n{1}\n{2}"
+msgstr "{0}\n{1}\n{2}"
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:427
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:427
 msgctxt "ASexyWorldSystem,TraitRequirementFluid"
-msgid ""
-"{0} {1}\n"
-"{2}ml\n"
-msgstr ""
-"{0} {1}\n"
-"{2}ml\n"
+msgid "{0} {1}\n{2}ml\n"
+msgstr "{0} {1}\n{2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:456
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:456
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid ""
-"{0}\n"
-"{1}\n"
-"{2}{3}"
-msgstr ""
-"{0}\n"
-"{1}\n"
-"{2}{3}"
+msgid "{0}\n{1}\n{2}{3}"
+msgstr "{0}\n{1}\n{2}{3}"
 
 #. Key:	WidowElf
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:707
@@ -14533,8 +14469,8 @@ msgid "Widow wishes to speak with you."
 msgstr "Widow souhaite te parler."
 
 #. Key:	Activate
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:135
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:135
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:139
+#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:139
 msgctxt "ASOG,Activate"
 msgid "View Inscribed Names"
 msgstr "Voir les noms inscrits"
@@ -14771,57 +14707,57 @@ msgid "Select Receiver"
 msgstr "Sélectionner Receveur"
 
 #. Key:	ImpossibleCombo
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:231
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:231
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:233
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:233
 msgctxt "BreedingSystem,ImpossibleCombo"
 msgid "Impossible breeding combination."
 msgstr "Combinaison d'accouplement impossible."
 
 #. Key:	NoFemaleGiver
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:226
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:226
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:228
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:228
 msgctxt "BreedingSystem,NoFemaleGiver"
 msgid "Giver must be futa or male."
 msgstr "Le donneur doit être une futa ou un male."
 
 #. Key:	NoGiver
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:202
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:202
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:204
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:204
 msgctxt "BreedingSystem,NoGiver"
 msgid "Giver must be selected."
 msgstr "Un donneur doit être sélectionné."
 
 #. Key:	NoMaleReceiver
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:221
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:221
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:223
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:223
 msgctxt "BreedingSystem,NoMaleReceiver"
 msgid "Receiver must be female or futa."
 msgstr "Le receveur doit être une femelle ou une futa."
 
 #. Key:	NoOffspring
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1000
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1000
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1019
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1019
 msgctxt "BreedingSystem,NoOffspring"
 msgid "No offspring this time..."
 msgstr "Pas de progéniture pour cette fois..."
 
 #. Key:	NoReceiver
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:207
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:207
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:209
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:209
 msgctxt "BreedingSystem,NoReceiver"
 msgid "Receiver must be selected."
 msgstr "Un receveur doit être sélectionné."
 
 #. Key:	NoRoomOffspring
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:993
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:993
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1012
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:1012
 msgctxt "BreedingSystem,NoRoomOffspring"
 msgid "Not enough space for offspring, it was released into the wild."
 msgstr "Pas assez de place dans l'enclos pour la progéniture, elle a été relâchée dans la nature."
 
 #. Key:	NoSexPosition
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:196
-#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:196
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:198
+#: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:198
 msgctxt "BreedingSystem,NoSexPosition"
 msgid "Sex position must be selected."
 msgstr "Une position sexuelle doit etre selectionnée."
@@ -14970,12 +14906,8 @@ msgstr "Enceinte"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:67
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:67
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid ""
-"Progress toward summoning offspring.\n"
-"Milk production is doubled during pregnancy."
-msgstr ""
-"Indique l'état de développement du nouveau né. \n"
-"La production de lait est doublée pendant la grossesse."
+msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
+msgstr "Indique l'état de développement du nouveau né. \nLa production de lait est doublée pendant la grossesse."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
@@ -15097,22 +15029,22 @@ msgid "Progress toward the next level."
 msgstr "Progrès vers le niveau suivant."
 
 #. Key:	AdditionalMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:555
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:555
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:450
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:450
 msgctxt "CharacterEditor,AdditionalMaterial"
 msgid "Additional Material"
 msgstr "Eléments additionnels"
 
 #. Key:	AmbientEffects
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:606
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:606
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:501
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:501
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
 msgstr "Effets ambiants"
 
 #. Key:	AnusMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:525
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:525
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:420
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:420
 msgctxt "CharacterEditor,AnusMaterial"
 msgid "Anus"
 msgstr "Anus"
@@ -15132,163 +15064,148 @@ msgid "Return to the previous screen."
 msgstr "Revenir a la scène précédente."
 
 #. Key:	BellyShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:456
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:456
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:351
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:351
 msgctxt "CharacterEditor,BellyShape"
 msgid "Belly"
 msgstr "Ventre"
 
 #. Key:	BodyAttachments
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:600
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:600
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:495
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:495
 msgctxt "CharacterEditor,BodyAttachments"
 msgid "Attachments"
 msgstr "Suppléments"
 
 #. Key:	BodyAttachmentsMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:561
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:561
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:456
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:456
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
 msgstr "Suppléments du corps"
 
 #. Key:	BodyMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:531
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:531
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:426
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:426
 msgctxt "CharacterEditor,BodyMaterial"
 msgid "Body"
 msgstr "Corps"
 
 #. Key:	BodyPhysics
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:612
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:612
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:507
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:507
 msgctxt "CharacterEditor,BodyPhysics"
 msgid "Bounce Physics"
 msgstr "Physique de rebondissement"
 
 #. Key:	BootsGroup
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:585
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:585
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:480
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:480
 msgctxt "CharacterEditor,BootsGroup"
 msgid "Footwear"
 msgstr "Chaussures"
 
 #. Key:	BreastsShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:450
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:450
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:345
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:345
 msgctxt "CharacterEditor,BreastsShape"
 msgid "Breasts"
 msgstr "Seins"
 
 #. Key:	ButtShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:369
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:369
 msgctxt "CharacterEditor,ButtShape"
 msgid "Butt"
 msgstr "Cul"
 
 #. Key:	CancelButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:669
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:669
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:564
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:564
 msgctxt "CharacterEditor,CancelButton"
 msgid "Cancel"
 msgstr "Annuler"
 
 #. Key:	ChangeSexTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:350
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:350
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid ""
-"Change this character's sex.\n"
-"WARNING: This will overwrite the current appearance."
-msgstr ""
-"Changer le sexe de ce personnage. \n"
-"ATTENTION : ceci supprimera l'apparence actuelle."
+msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
+msgstr "Changer le sexe de ce personnage. \nATTENTION : ceci supprimera l'apparence actuelle."
 
 #. Key:	ChooseAnimationTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:239
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:239
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:287
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:287
 msgctxt "CharacterEditor,ChooseAnimationTooltip"
 msgid "Change the current animation."
 msgstr "Changer l'animation actuelle."
 
 #. Key:	CopyTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:169
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:169
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:186
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:186
 msgctxt "CharacterEditor,CopyTooltip"
 msgid "Copy to clipboard."
 msgstr "Copier dans le Presse-papier."
 
-#. Key:	DefaultBodyTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
-msgctxt "CharacterEditor,DefaultBodyTooltip"
-msgid "Reset the body to the default shape."
-msgstr "Réinitialiser le corps à son aspect initial."
-
 #. Key:	DetailsWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:593
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:593
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:488
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:488
 msgctxt "CharacterEditor,DetailsWindowTitle"
 msgid "Details"
 msgstr "Détails"
 
 #. Key:	EditTraits
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:624
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:624
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
 msgctxt "CharacterEditor,EditTraits"
 msgid "Traits and States"
 msgstr "Traits et caractère"
 
 #. Key:	ExoticTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:215
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:215
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:232
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:232
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid ""
-"Give this character its exotic trait if one exists.\n"
-"WARNING: This will overwrite the current appearance."
-msgstr ""
-"Donner à ce personnage son trait exotique s'il en existe un. \n"
-"ATTENTION : ceci effacera l'apparence actuelle."
+msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgstr "Donner à ce personnage son trait exotique s'il en existe un. \nATTENTION : ceci effacera l'apparence actuelle."
 
 #. Key:	EyebrowMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:507
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:507
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:402
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:402
 msgctxt "CharacterEditor,EyebrowMaterial"
 msgid "Eyebrows"
 msgstr "Sourcils"
 
 #. Key:	EyeMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:501
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:501
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:396
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:396
 msgctxt "CharacterEditor,EyeMaterial"
 msgid "Eyes"
 msgstr "Yeux"
 
 #. Key:	FaceMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:495
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:495
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:390
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:390
 msgctxt "CharacterEditor,FaceMaterial"
 msgid "Face"
 msgstr "Visage"
 
 #. Key:	FaceShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:432
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:432
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:327
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:327
 msgctxt "CharacterEditor,FaceShape"
 msgid "Face"
 msgstr "Visage"
 
 #. Key:	FullBodyShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:438
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:438
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:333
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:333
 msgctxt "CharacterEditor,FullBodyShape"
 msgid "Full Body"
 msgstr "Corps entier"
 
 #. Key:	FurMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:549
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:549
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
 msgctxt "CharacterEditor,FurMaterial"
 msgid "Fur"
 msgstr "Fourrure"
@@ -15308,36 +15225,32 @@ msgid "Switch to the breeding scene gallery."
 msgstr "Passer dans la gallerie des scènes d'acouplement."
 
 #. Key:	GenitaliaMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
 msgctxt "CharacterEditor,GenitaliaMaterial"
 msgid "Genitals"
 msgstr "Organes génitaux"
 
 #. Key:	GenitalsShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:468
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:468
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:363
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:363
 msgctxt "CharacterEditor,GenitalsShape"
 msgid "Genitals"
 msgstr "Organes génitaux"
 
 #. Key:	HairMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:543
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:543
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:438
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:438
 msgctxt "CharacterEditor,HairMaterial"
 msgid "Hair"
 msgstr "Cheveux"
 
 #. Key:	HominalTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:207
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:207
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:224
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:224
 msgctxt "CharacterEditor,HominalTooltip"
-msgid ""
-"Give this character its hominal trait if one exists.\n"
-"WARNING: This will overwrite the current appearance."
-msgstr ""
-"Donner à ce personnage son trait hominal s'il en existe un.\n"
-"ATTENTION : ceci effacera l'apparence actuelle."
+msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgstr "Donner à ce personnage son trait hominal s'il en existe un.\nATTENTION : ceci effacera l'apparence actuelle."
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:126
@@ -15354,40 +15267,36 @@ msgid "Exit the editor. Unsaved changes will be lost."
 msgstr "Quitter l'éditeur. Les changements non sauvegardés seront perdus."
 
 #. Key:	LoadUsrPresetTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:159
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:159
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:175
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:175
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid ""
-"Load a saved preset.\n"
-"WARNING: This will overwrite the current appearance."
-msgstr ""
-"Charger un preset.\n"
-"ATTENTION : ceci effacera l'apparence actuelle."
+msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
+msgstr "Charger un preset.\nATTENTION : ceci effacera l'apparence actuelle."
 
 #. Key:	LowerBodyShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:462
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:462
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:357
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:357
 msgctxt "CharacterEditor,LowerBodyShape"
 msgid "Lower Body"
 msgstr "Bas du corps"
 
 #. Key:	LowerClothing
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:573
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:573
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:468
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:468
 msgctxt "CharacterEditor,LowerClothing"
 msgid "Lower Clothing"
 msgstr "Vêtements du bas"
 
 #. Key:	MaterialWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:377
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:377
 msgctxt "CharacterEditor,MaterialWindowTitle"
 msgid "Color"
 msgstr "Couleur"
 
 #. Key:	NailsMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:537
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:537
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:432
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:432
 msgctxt "CharacterEditor,NailsMaterial"
 msgid "Nails"
 msgstr "Ongles"
@@ -15407,177 +15316,169 @@ msgid "Continue to the next screen."
 msgstr "Continuer vers l'écran suivant."
 
 #. Key:	NippleMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:408
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:408
 msgctxt "CharacterEditor,NippleMaterial"
 msgid "Nipples"
 msgstr "Tétons"
 
 #. Key:	PasteTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:184
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:184
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:201
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:201
 msgctxt "CharacterEditor,PasteTooltip"
-msgid ""
-"Paste copied data.\n"
-"WARNING: This will overwrite the selected category, and might look terrible on different variants."
-msgstr ""
-"Copie des données.\n"
-"ATTENTION : ceci effacera la catégorie sélectionnée, peut engendrer des problèmes selon les variantes."
+msgid "Paste copied data.\nWARNING: This will overwrite the selected category, and might look terrible on different variants."
+msgstr "Copie des données.\nATTENTION : ceci effacera la catégorie sélectionnée, peut engendrer des problèmes selon les variantes."
 
 #. Key:	PresetFlags
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:618
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:618
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
 msgctxt "CharacterEditor,PresetFlags"
 msgid "Flags"
 msgstr "Flags"
 
 #. Key:	PresetNameTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:632
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:632
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:527
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:527
 msgctxt "CharacterEditor,PresetNameTitle"
 msgid "Save Preset"
 msgstr "Sauvegarder le preset"
 
-#. Key:	PropagatePresetTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:398
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:398
-msgctxt "CharacterEditor,PropagatePresetTooltip"
-msgid "Set all of this variant's presets to match the current body shape."
-msgstr "Assigner tous les attributs de cette variante afin de correspondre à la forme du corps."
-
 #. Key:	RenameTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:414
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:310
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:310
 msgctxt "CharacterEditor,RenameTooltip"
 msgid "Rename this character."
 msgstr "Renommer ce personnage."
 
 #. Key:	SaveBreederTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:266
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:266
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:155
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:155
 msgctxt "CharacterEditor,SaveBreederTooltip"
 msgid "Save current appearance."
 msgstr "Sauvegarder l'apparence actuelle."
 
 #. Key:	SaveButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:662
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:662
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:557
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:557
 msgctxt "CharacterEditor,SaveButton"
 msgid "Save"
 msgstr "Sauvegarder"
 
 #. Key:	SavePresetTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:258
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:258
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:147
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:147
 msgctxt "CharacterEditor,SavePresetTooltip"
 msgid "Save current appearance as a preset."
 msgstr "Sauvegarder l'apparence actuelle en tant que preset."
 
 #. Key:	SaveSpiritTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:147
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:147
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:163
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:163
 msgctxt "CharacterEditor,SaveSpiritTooltip"
 msgid "Save this as your spirit form."
 msgstr "Sauvegarder votre forme spirituelle."
 
 #. Key:	ShapeWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:425
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:425
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:320
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:320
 msgctxt "CharacterEditor,ShapeWindowTitle"
 msgid "Shape"
 msgstr "Forme"
 
 #. Key:	SkinMaterial
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:489
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:489
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:384
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:384
 msgctxt "CharacterEditor,SkinMaterial"
 msgid "Skin"
 msgstr "Peau"
 
 #. Key:	ToggleClothesTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:367
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:367
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:264
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:264
 msgctxt "CharacterEditor,ToggleClothesTooltip"
 msgid "Toggle all clothing except underwear."
 msgstr "Faire disparaitre tous les vêtements à l'exception des sous-vêtements."
 
 #. Key:	ToggleLinkedMode
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:255
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:255
 msgctxt "CharacterEditor,ToggleLinkedMode"
 msgid "Toggle linking of similar or mirrored values."
 msgstr "Faire disparaître les valeurs similaires."
 
 #. Key:	ToggleUnderwearTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:375
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:375
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:272
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:272
 msgctxt "CharacterEditor,ToggleUnderwearTooltip"
 msgid "Toggle only underwear."
 msgstr "Faire disparaitre seulement les sous-vêtements."
 
+#. Key:	ToolsTooltip
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:302
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:302
+msgctxt "CharacterEditor,ToolsTooltip"
+msgid "Various editor functions."
+msgstr ""
+
 #. Key:	UnderwearGroup
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:579
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:579
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
 msgctxt "CharacterEditor,UnderwearGroup"
 msgid "Underwear"
 msgstr "Sous-vêtements"
 
 #. Key:	UpperBodyShape
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:339
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:339
 msgctxt "CharacterEditor,UpperBodyShape"
 msgid "Upper Body"
 msgstr "Haut du corps"
 
 #. Key:	UpperClothing
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:567
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:567
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:462
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:462
 msgctxt "CharacterEditor,UpperClothing"
 msgid "Upper Clothing"
 msgstr "Vêtements du haut"
 
 #. Key:	VariantTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:199
-#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:199
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:216
+#: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:216
 msgctxt "CharacterEditor,VariantTooltip"
-msgid ""
-"Change this character's variant.\n"
-"WARNING: This will overwrite the current appearance."
-msgstr ""
-"Changer la variante de ce personnage.\n"
-"ATTENTION : ceci va effacer l'apparence actuelle."
+msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
+msgstr "Changer la variante de ce personnage.\nATTENTION : ceci va effacer l'apparence actuelle."
 
 #. Key:	ErrorSavingPreset
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3527
-#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3527
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3579
+#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3579
 msgctxt "CharacterSystem,ErrorSavingPreset"
 msgid "Error while trying to save preset."
 msgstr "Erreur lors de la sauvegarde du preset."
 
 #. Key:	SavedPreset
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3743
-#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3743
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:4057
+#: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:4057
 msgctxt "CharacterSystem,SavedPreset"
 msgid "Successfully saved preset."
 msgstr "Preset sauvegardé avec succès."
 
 #. Key:	DecrementTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:31
-#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:31
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:35
+#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:35
 msgctxt "ComponentModifier,DecrementTooltip"
 msgid "Previous component."
 msgstr "Composant précédent."
 
 #. Key:	IncrementTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:49
-#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:49
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:56
+#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:56
 msgctxt "ComponentModifier,IncrementTooltip"
 msgid "Next component."
 msgstr "Composant suivant."
 
 #. Key:	None
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:100
-#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:100
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:123
+#: Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:123
 msgctxt "ComponentModifier,None"
 msgid "None"
 msgstr "Aucun"
@@ -15652,6 +15553,41 @@ msgctxt "ConfirmationBox,OverwriteGameConfirmTitle"
 msgid "Overwrite Saved Game?"
 msgstr "Ecraser la partie sauvegardée ?"
 
+#. Key:	PresetAttachmentConfirm
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:152
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:152
+msgctxt "ConfirmationBox,PresetAttachmentConfirm"
+msgid "All presets for this variant will have their attachment colors replaced, this cannot be undone."
+msgstr ""
+
+#. Key:	PresetAttachmentTitle
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
+msgctxt "ConfirmationBox,PresetAttachmentTitle"
+msgid "Propagate Attachment Color?"
+msgstr ""
+
+#. Key:	PresetFurConfirm
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
+msgctxt "ConfirmationBox,PresetFurConfirm"
+msgid "All presets for this variant will have their fur colors replaced, this cannot be undone."
+msgstr ""
+
+#. Key:	PresetFurTitle
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
+msgctxt "ConfirmationBox,PresetFurTitle"
+msgid "Propagate Fur Color?"
+msgstr ""
+
+#. Key:	PresetHairConfirm
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
+msgctxt "ConfirmationBox,PresetHairConfirm"
+msgid "All presets for this variant will have their hair colors replaced, this cannot be undone."
+msgstr ""
+
 #. Key:	PresetOverwriteConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
@@ -15679,6 +15615,27 @@ msgstr "Tous les presets correspondant à cette variante verront leurs valeurs r
 msgctxt "ConfirmationBox,PresetPropagateTitle"
 msgid "Propagate Preset Shape?"
 msgstr "Propager les valeurs corporels du preset ?"
+
+#. Key:	PresetSkinConfirm
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
+msgctxt "ConfirmationBox,PresetSkinConfirm"
+msgid "All presets for this variant will have their skin colors replaced, this cannot be undone."
+msgstr ""
+
+#. Key:	PresetSkinTitle
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
+msgctxt "ConfirmationBox,PresetSkinTitle"
+msgid "Propagate Skin Color?"
+msgstr ""
+
+#. Key:	PresetTitle
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
+#: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
+msgctxt "ConfirmationBox,PresetTitle"
+msgid "Propagate Hair Color?"
+msgstr ""
 
 #. Key:	ReleaseConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:122
@@ -15730,36 +15687,36 @@ msgid "Confirm"
 msgstr "Confirmer"
 
 #. Key:	BatheMonsterMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:328
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:328
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:329
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:329
 msgctxt "ConfirmTradeBox,BatheMonsterMessage"
 msgid "Bathing will remove the grungy trait."
 msgstr "Prendre un bain retirera le trait Crasseux."
 
 #. Key:	BuyUpgradeMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:316
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:316
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:317
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:317
 msgctxt "ConfirmTradeBox,BuyUpgradeMessage"
 msgid "This upgrade will permanently be added to your ranch."
 msgstr "Cette amélioration sera ajoutée de façon permanente à votre ferme."
 
 #. Key:	CancelButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:54
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:54
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:55
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:55
 msgctxt "ConfirmTradeBox,CancelButton"
 msgid "Cancel"
 msgstr "Annuler"
 
 #. Key:	ConfirmButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:54
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:54
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:55
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:55
 msgctxt "ConfirmTradeBox,ConfirmButton"
 msgid "Confirm"
 msgstr "Confirmer"
 
 #. Key:	FinalPrice
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:64
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:64
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:65
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:65
 msgctxt "ConfirmTradeBox,FinalPrice"
 msgid "Final Price:"
 msgstr "Prix final :"
@@ -16101,176 +16058,176 @@ msgid "Not enough fluid."
 msgstr "Pas assez de fluide."
 
 #. Key:	Action
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:187
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:187
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:188
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:188
 msgctxt "Keybinds,Action"
 msgid "Action"
 msgstr "Action"
 
 #. Key:	Back
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:192
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:192
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,Back"
 msgid "Back"
 msgstr "Retour"
 
 #. Key:	Crouch
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:152
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:152
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
 msgctxt "Keybinds,Crouch"
 msgid "Crouch"
 msgstr "S'accroupir"
 
 #. Key:	GalleryMenu
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:208
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:208
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 msgctxt "Keybinds,GalleryMenu"
 msgid "Toggle Gallery"
 msgstr "Afficher la gallerie"
 
 #. Key:	Jump
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:148
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:148
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:149
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:149
 msgctxt "Keybinds,Jump"
 msgid "Jump"
 msgstr "Sauter"
 
 #. Key:	Look
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:173
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:173
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:174
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:174
 msgctxt "Keybinds,Look"
 msgid "Camera Look"
 msgstr "Regarder la caméra"
 
 #. Key:	MoveBackward
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:136
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:136
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:137
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:137
 msgctxt "Keybinds,MoveBackward"
 msgid "Move Backwards"
 msgstr "Reculer"
 
 #. Key:	MoveForward
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:133
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:133
 msgctxt "Keybinds,MoveForward"
 msgid "Move Forward"
 msgstr "Avancer"
 
 #. Key:	MoveLeft
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:145
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:145
 msgctxt "Keybinds,MoveLeft"
 msgid "Move Left"
 msgstr "Aller à gauche"
 
 #. Key:	MoveRight
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:140
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:140
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:141
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:141
 msgctxt "Keybinds,MoveRight"
 msgid "Move Right"
 msgstr "Aller à droite"
 
 #. Key:	Pan
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:180
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:180
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:181
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:181
 msgctxt "Keybinds,Pan"
 msgid "Pan"
 msgstr "Pan"
 
 #. Key:	Rotate
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:183
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:183
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:184
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:184
 msgctxt "Keybinds,Rotate"
 msgid "Rotate"
 msgstr "Tourner"
 
 #. Key:	SingleTapDodge
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:159
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:159
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:160
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:160
 msgctxt "Keybinds,SingleTapDodge"
 msgid "One Tap Dodge"
 msgstr "Raccourci de l'esquive"
 
 #. Key:	Slide
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:156
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:156
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
 msgctxt "Keybinds,Slide"
 msgid "Slide"
 msgstr "Glisser"
 
 #. Key:	SpiritForm
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:201
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:201
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:202
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:202
 msgctxt "Keybinds,SpiritForm"
 msgid "Spirit Form"
 msgstr "Forme spirituelle"
 
 #. Key:	Sprint
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:162
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:162
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:163
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:163
 msgctxt "Keybinds,Sprint"
 msgid "Sprint"
 msgstr "Sprinter"
 
 #. Key:	ToggleBoots
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:224
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:224
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:225
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:225
 msgctxt "Keybinds,ToggleBoots"
 msgid "Toggle Boots"
 msgstr "Afficher les bottes"
 
 #. Key:	ToggleClothing
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:213
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:213
 msgctxt "Keybinds,ToggleClothing"
 msgid "Toggle Clothing"
 msgstr "Afficher les vêtements"
 
 #. Key:	TogglePants
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:218
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:218
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:219
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:219
 msgctxt "Keybinds,TogglePants"
 msgid "Toggle Pants"
 msgstr "Afficher le pantalon"
 
 #. Key:	ToggleShirt
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:215
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:215
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:216
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:216
 msgctxt "Keybinds,ToggleShirt"
 msgid "Toggle Shirt"
 msgstr "Afficher la chemise"
 
 #. Key:	ToggleUnderwear
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:221
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:221
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:222
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:222
 msgctxt "Keybinds,ToggleUnderwear"
 msgid "Toggle Underwear"
 msgstr "Afficher les sous-vetements"
 
 #. Key:	Turn
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:169
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:169
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:170
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:170
 msgctxt "Keybinds,Turn"
 msgid "Camera Turn"
 msgstr "Tourner la caméra"
 
 #. Key:	UtilityMenu
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:205
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:205
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
 msgstr "Afficher le menu utilitaire"
 
 #. Key:	Walk
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:165
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:165
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:166
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:166
 msgctxt "Keybinds,Walk"
 msgid "Walk"
 msgstr "Marcher"
 
 #. Key:	Zoom
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:177
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:177
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:178
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:178
 msgctxt "Keybinds,Zoom"
 msgid "Camera Zoom"
 msgstr "Zoomer"
@@ -16332,15 +16289,15 @@ msgid "Perform the selected action, starting a scene if one exists."
 msgstr "Exécuter l'action sélectionnée, commencer la scène s'il en existe une."
 
 #. Key:	HarvestDev
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:606
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:606
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:608
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:608
 msgctxt "ManageMonster,HarvestDev"
 msgid "Harvest scene in development."
 msgstr "Scène de récolte en développement."
 
 #. Key:	InvalidAction
-#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:341
-#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:341
+#. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:343
+#: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:343
 msgctxt "ManageMonster,InvalidAction"
 msgid "Select a harvest action."
 msgstr "Sélectionner une action de récolte."
@@ -16493,8 +16450,8 @@ msgid "Male"
 msgstr "Mâle"
 
 #. Key:	NullText
-#. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2770
-#: Source/Radiant/Public/Data/SexyData.h:2770
+#. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2848
+#: Source/Radiant/Public/Data/SexyData.h:2848
 msgctxt "Radiant,NullText"
 msgid "None"
 msgstr "Aucun"
@@ -16528,113 +16485,113 @@ msgid "Rename"
 msgstr "Renommer"
 
 #. Key:	ActionEditBreeder
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1055
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1055
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1097
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1097
 msgctxt "ResourceList,ActionEditBreeder"
 msgid "Edit Appearance"
 msgstr "Editer l'apparence"
 
 #. Key:	ActionGiveFavorite
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1092
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1092
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1134
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1134
 msgctxt "ResourceList,ActionGiveFavorite"
 msgid "Give Fluid"
 msgstr "Donner du fluide"
 
 #. Key:	ActionHarvestMilk
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1069
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1069
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1111
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1111
 msgctxt "ResourceList,ActionHarvestMilk"
 msgid "Harvest Milk"
 msgstr "Récolter du lait"
 
 #. Key:	ActionHarvestMilkAssist
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1074
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1074
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1116
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1116
 msgctxt "ResourceList,ActionHarvestMilkAssist"
 msgid "Harvest Milk (Fern)"
 msgstr "Récolter du lait (via Fern)"
 
 #. Key:	ActionHarvestMilkAssist2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1080
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1080
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1122
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1122
 msgctxt "ResourceList,ActionHarvestMilkAssist2"
 msgid "Harvest Milk (Blossom)"
 msgstr "Récolter du lait (via Blossom)"
 
 #. Key:	ActionHarvestSemen
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1066
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1066
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1108
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1108
 msgctxt "ResourceList,ActionHarvestSemen"
 msgid "Harvest Semen"
 msgstr "Récolter de la semence"
 
 #. Key:	ActionHarvestSemen2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1067
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1067
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1109
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1109
 msgctxt "ResourceList,ActionHarvestSemen2"
 msgid "Capture Semen"
 msgstr "Capturer de la semence"
 
 #. Key:	ActionHarvestSemenAssist
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1072
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1072
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1114
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1114
 msgctxt "ResourceList,ActionHarvestSemenAssist"
 msgid "Harvest Semen (Fern)"
 msgstr "Récolter de la semence (via Fern)"
 
 #. Key:	ActionHarvestSemenAssist2
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1073
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1073
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1115
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1115
 msgctxt "ResourceList,ActionHarvestSemenAssist2"
 msgid "Capture Semen (Fern)"
 msgstr "Capturer de la semence (via Fern)"
 
 #. Key:	ActionHarvestSemenAssist3
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1078
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1078
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1120
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1120
 msgctxt "ResourceList,ActionHarvestSemenAssist3"
 msgid "Harvest Semen (Blossom)"
 msgstr "Récolter de la semence (via Blossom)"
 
 #. Key:	ActionHarvestSemenAssist4
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1079
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1079
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1121
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1121
 msgctxt "ResourceList,ActionHarvestSemenAssist4"
 msgid "Capture Semen (Blossom)"
 msgstr "Capturer de la semence (via Blossom)"
 
 #. Key:	ActionRBJ
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1189
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1189
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1231
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1231
 msgctxt "ResourceList,ActionRBJ"
 msgid "Spontaneous Blow Job"
 msgstr "Fellation spontanée"
 
 #. Key:	ActionRelease
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1082
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1082
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1124
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1124
 msgctxt "ResourceList,ActionRelease"
 msgid "Release into the Wild"
 msgstr "Relâcher dans la nature"
 
 #. Key:	ActionRename
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1063
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1063
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1105
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1105
 msgctxt "ResourceList,ActionRename"
 msgid "Rename"
 msgstr "Renommer"
 
 #. Key:	ActionSleep
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1054
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1054
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1096
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1096
 msgctxt "ResourceList,ActionSleep"
 msgid "Sleep"
 msgstr "Dormir"
 
 #. Key:	ActionSurpriseSex
-#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1153
-#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1153
+#. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1195
+#: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1195
 msgctxt "ResourceList,ActionSurpriseSex"
 msgid "Surprise Sex"
 msgstr "Sexe surprise"
@@ -16654,15 +16611,15 @@ msgid "Save Location"
 msgstr "Emplacement"
 
 #. Key:	ErrorSavingGame
-#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:287
-#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:287
+#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:290
+#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:290
 msgctxt "SaveSystem,ErrorSavingGame"
 msgid "Error while trying to save."
 msgstr "Erreur lors de la tentative de sauvegarde."
 
 #. Key:	SavedGame
-#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:283
-#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:283
+#. SourceLocation:	Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:286
+#: Source/Radiant/Public/UI/Saving/SexySaveSystem.cpp:286
 msgctxt "SaveSystem,SavedGame"
 msgid "Game successfully saved."
 msgstr "Partie sauvegardée avec succès."
@@ -16689,18 +16646,25 @@ msgid "Sound"
 msgstr "Son"
 
 #. Key:	AutoplayDialogue
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:118
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:118
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:119
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:119
 msgctxt "SettingsMenu,AutoplayDialogue"
 msgid "Autoplay Dialogue"
 msgstr "Lecture automatique des dialogues"
 
 #. Key:	AutoplayDialogueHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:118
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:118
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:119
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:119
 msgctxt "SettingsMenu,AutoplayDialogueHelp"
 msgid "Automatically cycle through lines of dialogue without having to press next."
 msgstr "Passe au dialogue suivant sans avoir besoin d'appuyer."
+
+#. Key:	BulgeHelp
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
+msgctxt "SettingsMenu,BulgeHelp"
+msgid "Large dicks will slightly bulge the receiver's groin and belly area."
+msgstr ""
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:243
@@ -16731,15 +16695,15 @@ msgid "Zoom Rate"
 msgstr "Vitesse de zoom"
 
 #. Key:	CamShakeHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
 msgctxt "SettingsMenu,CamShakeHelp"
 msgid "Camera will shake when large characters are nearby."
 msgstr "Active le tremblement de la caméra lorsque des personnages imposants sont proches."
 
 #. Key:	CamShakeOption
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
 msgctxt "SettingsMenu,CamShakeOption"
 msgid "Camera Shake"
 msgstr "Tremblement de la caméra"
@@ -16765,12 +16729,19 @@ msgctxt "SettingsMenu,CumInflation"
 msgid "Cum Inflation"
 msgstr "Gonflement à cause du sperme"
 
+#. Key:	DickBulge
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
+msgctxt "SettingsMenu,DickBulge"
+msgid "Dick Bulge"
+msgstr ""
+
 #. Key:	DickSheath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 msgctxt "SettingsMenu,DickSheath"
-msgid "Dick Blur Sheath"
-msgstr "Flou sur les parties génitales masculines"
+msgid "Dick Seam Blend"
+msgstr ""
 
 #. Key:	EffectsVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:516
@@ -16834,20 +16805,6 @@ msgstr "Femelles hominales"
 msgctxt "SettingsMenu,HominalFemalesHelp"
 msgid "Female and futa Nephelym can have a trait that alters their appearance to be more human than monster."
 msgstr "Les femelles et les futas peuvent apparaître avec un trait spécifique qui leur donnera une forme plus humaine."
-
-#. Key:	Incest
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-msgctxt "SettingsMenu,Incest"
-msgid "Incest"
-msgstr "Inceste"
-
-#. Key:	IncestHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
-msgctxt "SettingsMenu,IncestHelp"
-msgid "Allow sex scenes for related characters."
-msgstr "Permets l'inceste."
 
 #. Key:	KeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -16920,8 +16877,8 @@ msgid "Settings"
 msgstr "Paramètres"
 
 #. Key:	PhysHelp
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:122
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:122
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
 msgctxt "SettingsMenu,PhysHelp"
 msgid "Simulate Breeder's jiggly bits, disable for performance gain. Restart required for full effect."
 msgstr "Fais en sorte d'accentuer la physique de l'éleveuse, assez énergivore en fps. Le jeu devra être redémarré."
@@ -16934,8 +16891,8 @@ msgid "Physics"
 msgstr "Physiques"
 
 #. Key:	PhysOption
-#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:122
-#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:122
+#. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
+#: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:123
 msgctxt "SettingsMenu,PhysOption"
 msgid "Physics"
 msgstr "Physiques"
@@ -17039,8 +16996,8 @@ msgid "Window Mode"
 msgstr "Mode fénétré"
 
 #. Key:	BuyPositionMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:339
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:339
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:340
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:340
 msgctxt "SexyTradeMenu,BuyPositionMessage"
 msgid "You will learn this sex position."
 msgstr "Vous apprendrez cette position."
@@ -17109,120 +17066,120 @@ msgid "None"
 msgstr "Aucun"
 
 #. Key:	BackButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:67
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:67
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:68
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:68
 msgctxt "SSexyGalleryMenu,BackButtonTitle"
 msgid "Back"
 msgstr "Retour"
 
 #. Key:	BackButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:68
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:68
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:69
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:69
 msgctxt "SSexyGalleryMenu,BackButtonTooltip"
 msgid "Return to the creator."
 msgstr "Retour à la création."
 
 #. Key:	GiverWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:95
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:95
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:96
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:96
 msgctxt "SSexyGalleryMenu,GiverWindowTitle"
 msgid "Select Giver"
 msgstr "Sélectionner le donneur"
 
 #. Key:	OffspringButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:86
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:86
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
 msgctxt "SSexyGalleryMenu,OffspringButtonTitle"
 msgid "Make Offspring"
 msgstr "Démarrer la reproduction"
 
 #. Key:	OffspringButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:88
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:88
 msgctxt "SSexyGalleryMenu,OffspringButtonTooltip"
 msgid "See what the selected mates would produce."
 msgstr "Consulter ce que les partenaires sélectionnés peuvent potentiellement engendrer."
 
 #. Key:	ReceiverWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:133
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:133
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:134
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:134
 msgctxt "SSexyGalleryMenu,ReceiverWindowTitle"
 msgid "Select Receiver"
 msgstr "Sélectionner un receveur"
 
 #. Key:	ViewButtonTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:77
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:77
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:78
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:78
 msgctxt "SSexyGalleryMenu,ViewButtonTitle"
 msgid "View"
 msgstr "Voir"
 
 #. Key:	ViewButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:78
-#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:78
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:79
+#: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:79
 msgctxt "SSexyGalleryMenu,ViewButtonTooltip"
 msgid "View the sex scene for the currently selected mates and options."
 msgstr "Voir la scène de sexe pour les partenaires actuellement sélectionnés."
 
 #. Key:	ASOGMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:100
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:100
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:101
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:101
 msgctxt "SSexyGenericMenu,ASOGMessage"
 msgid "Special thanks to the following people:"
 msgstr "Remerciements spéciaux adressés aux personnes suivantes :"
 
 #. Key:	ASOGWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:85
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:85
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:86
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:86
 msgctxt "SSexyGenericMenu,ASOGWindowTitle"
 msgid "Ancient Stone of Glory"
 msgstr "Ancienne Pierre de la Gloire"
 
 #. Key:	DailyTasksTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:145
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:145
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:146
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:146
 msgctxt "SSexyGenericMenu,DailyTasksTitle"
 msgid "Daily"
 msgstr "Requêtes quotidiennes"
 
 #. Key:	FulfillButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:218
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:218
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:219
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:219
 msgctxt "SSexyGenericMenu,FulfillButton"
 msgid "Fulfill"
 msgstr "Accomplir"
 
 #. Key:	FulfillButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:219
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:219
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:220
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:220
 msgctxt "SSexyGenericMenu,FulfillButtonTooltip"
 msgid "Accept the reward for this task."
 msgstr "Accepter la récompense de cette requête."
 
 #. Key:	SpecialTasksTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:163
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:163
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:164
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:164
 msgctxt "SSexyGenericMenu,SpecialTasksTitle"
 msgid "Special Requests"
 msgstr "Requêtes spéciales"
 
 #. Key:	TaskMonsterWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:229
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:229
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:230
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:230
 msgctxt "SSexyGenericMenu,TaskMonsterWindowTitle"
 msgid "Select Nephelym to Fulfill Task"
 msgstr "Sélectionner un Nephilim pour compléter la requête"
 
 #. Key:	TaskWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:119
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:119
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:120
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:120
 msgctxt "SSexyGenericMenu,TaskWindowTitle"
 msgid "Breeding Tasks"
 msgstr "Requêtes de reproduction"
 
 #. Key:	TravelWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:66
-#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:66
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:67
+#: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:67
 msgctxt "SSexyGenericMenu,TravelWindowTitle"
 msgid "Select Destination"
 msgstr "Sélectionner la destination"
@@ -17305,155 +17262,155 @@ msgid "Filter by stats."
 msgstr "Filtrer par statistique."
 
 #. Key:	Breeder
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:215
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:215
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:216
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:216
 msgctxt "SSexyRoamerMenu,Breeder"
 msgid "Breeder:"
 msgstr "Eleveur :"
 
 #. Key:	CatchButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:112
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:112
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:113
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:113
 msgctxt "SSexyRoamerMenu,CatchButton"
 msgid "Catch"
 msgstr "Attraper"
 
 #. Key:	CatchButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:113
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:113
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:114
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:114
 msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
 msgid "Add this wild Nephelym to your collection."
 msgstr "Ajouter ce Nephilim sauvage à votre collection."
 
 #. Key:	CollapseStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:160
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:160
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:161
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:161
 msgctxt "SSexyRoamerMenu,CollapseStats"
 msgid "Hide detailed stats for this wild Nephelym."
 msgstr "Masquer les statistiques pour ce Nephilim sauvage."
 
 #. Key:	ExpandStats
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:139
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:139
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:140
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:140
 msgctxt "SSexyRoamerMenu,ExpandStats"
 msgid "View detailed stats for this wild Nephelym."
 msgstr "Voir les statistiques détaillées pour ce Nephilim sauvage."
 
 #. Key:	ItemWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:251
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:251
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:252
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:252
 msgctxt "SSexyRoamerMenu,ItemWindowTitle"
 msgid "Give Fluid"
 msgstr "Donner du fluide"
 
 #. Key:	LeaveButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:69
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:69
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:70
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:70
 msgctxt "SSexyRoamerMenu,LeaveButton"
 msgid "Leave"
 msgstr "Partir"
 
 #. Key:	LeaveButtonTooltip
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:70
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:70
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:71
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:71
 msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
 msgid "Leave this wild Nephelym alone."
 msgstr "Laisser ce Nephilim sauvage tranquille."
 
 #. Key:	Nephelym
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:195
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:195
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:196
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:196
 msgctxt "SSexyRoamerMenu,Nephelym"
 msgid "Nephelym:"
 msgstr "Nephilim :"
 
 #. Key:	RBJ
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:334
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:334
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:335
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:335
 msgctxt "SSexyRoamerMenu,RBJ"
 msgid "Spontaneous Blow Job!"
 msgstr "Fellation spontanée !"
 
 #. Key:	ResistMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:343
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:343
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
 msgstr "Clique rapidement pour résister à l'orgasme."
 
 #. Key:	RoamerWindowTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:229
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:229
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:230
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:230
 msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
 msgid "Actions"
 msgstr "Action"
 
 #. Key:	SurpriseSex
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:334
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:334
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:335
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:335
 msgctxt "SSexyRoamerMenu,SurpriseSex"
 msgid "Surprise Sex!"
 msgstr "Sexe surprise !"
 
 #. Key:	TaskRBJ
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:343
-#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:343
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
+#: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
 msgstr "Laisse la satisfaire sa curiosité."
 
 #. Key:	CheatFavor
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:988
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:988
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:993
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:993
 msgctxt "SSexySettingsMenu,CheatFavor"
 msgid "Added 1,000 favor."
 msgstr "1000 Faveurs ajoutées."
 
 #. Key:	CheatFluids
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1035
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1035
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1040
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1040
 msgctxt "SSexySettingsMenu,CheatFluids"
 msgid "All fluids maxed."
 msgstr "Tous les fluides au maximum."
 
 #. Key:	CheatLust
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:993
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:993
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:998
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:998
 msgctxt "SSexySettingsMenu,CheatLust"
 msgid "Everyone has infinite lust."
 msgstr "Tout le monde possède un désir illimité."
 
 #. Key:	CheatMoney
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:983
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:983
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:988
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:988
 msgctxt "SSexySettingsMenu,CheatMoney"
 msgid "Added 1,000,000 orgasium."
 msgstr "1,000,000 orgasium ajoutés."
 
 #. Key:	CheatRanch
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1026
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1026
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1031
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1031
 msgctxt "SSexySettingsMenu,CheatRanch"
 msgid "All barns added to ranch."
 msgstr "Toutes les installations ajoutées à la ferme."
 
 #. Key:	CheatRemove
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:978
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:978
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:983
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:983
 msgctxt "SSexySettingsMenu,CheatRemove"
 msgid "All cheats removed."
 msgstr "Tous les codes de triches sont désactivés."
 
 #. Key:	CheatSpirit
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1004
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1004
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1009
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1009
 msgctxt "SSexySettingsMenu,CheatSpirit"
 msgid "You now have infinite spirit."
 msgstr "Vous avez maintenant de l'énergie spirituelle illimitée."
 
 #. Key:	CheatSurprise
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1040
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1040
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1045
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1045
 msgctxt "SSexySettingsMenu,CheatSurprise"
 msgid "You will always win surprise sex."
 msgstr "Vous gagnerez toujours le sexe surprise."
@@ -17466,8 +17423,8 @@ msgid "Cheats"
 msgstr "Codes de triche"
 
 #. Key:	CheatTraitLvl
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1009
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1009
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1014
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1014
 msgctxt "SSexySettingsMenu,CheatTraitLvl"
 msgid "Trait level is maxed."
 msgstr "Niveau de trait au maximum."
@@ -17478,6 +17435,13 @@ msgstr "Niveau de trait au maximum."
 msgctxt "SSexySettingsMenu,CreatorMode"
 msgid "Creator mode activated."
 msgstr "Mode créateur activé."
+
+#. Key:	CreatorModeMainMenu
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:966
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:966
+msgctxt "SSexySettingsMenu,CreatorModeMainMenu"
+msgid "Use this code in the main menu."
+msgstr ""
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:864
@@ -17522,8 +17486,8 @@ msgid "Futas use SS TG."
 msgstr "Futas use SS TG."
 
 #. Key:	ProudMother
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1082
-#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1082
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1088
+#: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1088
 msgctxt "SSexySettingsMenu,ProudMother"
 msgid "Your mother would be so proud."
 msgstr "Ta mère serait si fière de toi."
@@ -17550,85 +17514,85 @@ msgid "Reward:"
 msgstr "Récompense :"
 
 #. Key:	FavorTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:482
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:482
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:483
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:483
 msgctxt "SSexyTradeMenu,FavorTitle"
 msgid "Confirm Exchange"
 msgstr "Confirmer l'échange"
 
 #. Key:	FinalFavor
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:59
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:59
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:60
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:60
 msgctxt "SSexyTradeMenu,FinalFavor"
 msgid "Favor gained:"
 msgstr "Faveur gagnée :"
 
 #. Key:	PositionDescription
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:51
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:51
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:52
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:52
 msgctxt "SSexyTradeMenu,PositionDescription"
 msgid "Description"
 msgstr "Description"
 
 #. Key:	PurchaseTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:484
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:484
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:485
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:485
 msgctxt "SSexyTradeMenu,PurchaseTitle"
 msgid "Confirm Purchase"
 msgstr "Confirmer l'achat"
 
 #. Key:	SaleTitle
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:484
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:484
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:485
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:485
 msgctxt "SSexyTradeMenu,SaleTitle"
 msgid "Confirm Sale"
 msgstr "Confirmer la vente"
 
 #. Key:	SellMonsterMessage
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:273
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:273
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:274
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:274
 msgctxt "SSexyTradeMenu,SellMonsterMessage"
 msgid "Ascend this one and gain favor?"
 msgstr "Faire l'ascension de celui-ci et gagner des faveurs ?"
 
 #. Key:	Activate
-#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:129
-#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:129
+#. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:133
+#: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:133
 msgctxt "TaskBoard,Activate"
 msgid "Check Breeding Tasks"
 msgstr "Vérifier les requêtes de reproduction"
 
 #. Key:	BuyFunds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:38
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:38
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:39
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:39
 msgctxt "TradeMenu,BuyFunds"
 msgid "Her funds:"
 msgstr "Ses fonds :"
 
 #. Key:	HarvestButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:29
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:29
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:30
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:30
 msgctxt "TradeMenu,HarvestButton"
 msgid "Harvest"
 msgstr "Récolter"
 
 #. Key:	ItemsButton
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:29
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:29
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:30
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:30
 msgctxt "TradeMenu,ItemsButton"
 msgid "Items"
 msgstr "Objets"
 
 #. Key:	SellFunds
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:27
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:27
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:28
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:28
 msgctxt "TradeMenu,SellFunds"
 msgid "Your funds:"
 msgstr "Vos fonds :"
 
 #. Key:	UpgradeDescription
-#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:47
-#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:47
+#. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:48
+#: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:48
 msgctxt "TradeMenu,UpgradeDescription"
 msgid "Description"
 msgstr "Description"
@@ -17695,3 +17659,4 @@ msgstr "Parler"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Traverser le portail"
+
