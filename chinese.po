@@ -1,11 +1,11 @@
-﻿# Radiant Chinese (Simplified) translation.
+﻿# chinese Chinese (Simplified) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Radiant\n"
-"POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-06-14 02:04\n"
+"Project-Id-Version: chinese\n"
+"POT-Creation-Date: 2021-06-14 02:38\n"
+"PO-Revision-Date: 2021-06-14 02:38\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -3378,7 +3378,7 @@ msgstr "魔女喜欢呻吟峭壁的岩浆热流。"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
-msgstr "可憎"
+msgstr "令人反感"
 
 #. Key:	3EFC55C841DE04F93E1162B03860B502
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -3987,7 +3987,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
-msgstr "放荡"
+msgstr "放荡的"
 
 #. Key:	49DC40D24B51D1AB62F3B6A881228980
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(1).Lines
@@ -4372,7 +4372,7 @@ msgstr "大型体型：身高约8英尺（2.44米）"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
-msgstr "光滑"
+msgstr "光滑的"
 
 #. Key:	50E84BD14AFF02C2DD65798A8386C0FE
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -4386,7 +4386,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
-msgstr "可憎：该个体是近亲繁殖的产物"
+msgstr "令人反感：该个体是近亲繁殖的产物"
 
 #. Key:	51891BB34DD1356F61B02FB5FE4F3636
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(0).Lines
@@ -5548,7 +5548,7 @@ msgstr "噢爽...喵呜...啊哈..."
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
-msgstr "迷人"
+msgstr "迷人的"
 
 #. Key:	693F4313487D2153C164CFBF808F1814
 #. SourceLocation:	/Game/Breeding/Positions/Test3.Default__Test3_C.SessionData.PositionName
@@ -5688,7 +5688,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(26).LinesToFemale
 msgctxt ",6C9735694D5FA2594461AF9E28110F5C"
 msgid "Gently of course. To date there has never been an instance where a @MONSTER_RACE@ has intentionally harmed a human."
-msgstr "当然了，到目前为止还没出现过@MONSTER_RACE@故意伤害人类的情况。"
+msgstr "当然了，他们于此还是很温柔的。到目前为止还没出现过故意伤害人类的情况。"
 
 #. Key:	6CE8D4CC4972C62CFCB7FE9919BBA235
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -5723,7 +5723,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
-msgstr "多汁: 在收获时产生50%额外的体液"
+msgstr "多汁: 在收获时产生50%的体液"
 
 #. Key:	6D1721A840C5FB9C772FA0B710043ADC
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -6724,7 +6724,7 @@ msgstr "管理你的森之妖精"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
-msgstr "发散"
+msgstr "发散性"
 
 #. Key:	7F23CD5A4568538ECF60ED883E7BBAFA
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -6752,7 +6752,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(4).Lines
 msgctxt ",7FEBA6A748A632320A5759BABB317345"
 msgid "Dragons like the canyons of Virgin Breaks."
-msgstr "龙人喜欢呆在落红断崖的峡谷。"
+msgstr "龙人喜欢呆在落红之地的峡谷。"
 
 #. Key:	7FEBDCF1488DFD58CEB8F28DF96358B3
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(5).Lines
@@ -7452,7 +7452,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
-msgstr "多产多育：反复配种时生育力对怀孕率的影响翻倍"
+msgstr "多产多育：反复配种行为可以增加20%的怀孕几率"
 
 #. Key:	8B4E1ACB4F89392773B344A3BE6A4E57
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(5).Lines
@@ -8810,7 +8810,7 @@ msgstr "那么，就到这吧，祝你好运！"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(2).Lines
 msgctxt ",A2EE900942F55DC4C6AA92BC44E482E4"
 msgid "Most dicks in this world are larger than me! As someone who collects and studies cum, you can't imagine how miserable it is stroking dick after dick and never being able to feel them penetrate me."
-msgstr "世界上大多数的肉棒都比我大！作为一个收集和研究精液的人，你无法想象抚摸着一个又一个肉棒，却永远感觉不到它们的存在是多么的痛苦。"
+msgstr "世界上大多数的肉棒都比我大!作为一个收集和研究精液的人，你无法想象抚摸着一个又一个肉棒，却永远感觉不到它们的存在是多么的痛苦。"
 
 #. Key:	A350122B4286C7BCFA490982F8390CB1
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(2).Lines
@@ -8901,7 +8901,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(3).Lines
 msgctxt ",A4E670824F11C45EC16FA29BAF6EB6E1"
 msgid "Bovaur can be found sleeping in the soft grass of Pleasure Pastures."
-msgstr "奶牛娘可以在快感牧野柔软的草地上找到。"
+msgstr "奶牛娘可以在快乐牧场柔软的草地上找到。"
 
 #. Key:	A4F79CC74333E2131FC34EBBF3796A56
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01.Default__MonarchDefault01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -9013,7 +9013,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(14).Lines
 msgctxt ",A7C8404E4B6C68006478148076380602"
 msgid "My guess is that when one of the mates is human, the @MONSTER_RACE@ half dominates and takes control."
-msgstr "我的猜想是，当一方是人类的时候，@MONSTER_RACE@一方的基因将占主导地位。"
+msgstr "我的猜想是，当一方是人类的时候，魔弗灵的一方的基因将占主导。"
 
 #. Key:	A7E400D84D8F2911F46A3BA5FBA020A8
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchTaskFulfilled.Default__MonarchTaskFulfilled_C.SessionData.Lines(1).Lines
@@ -9048,7 +9048,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",A83161F4465E00C6CE9D718D3E76EDC6"
 msgid "What is the origin of the name \"@MONSTER_RACE@\"?"
-msgstr "\"@MONSTER_RACE@\"这个名字的由来是什么？"
+msgstr "\"魔弗灵\"这个名字的由来是什么？"
 
 #. Key:	A87432C446A6D9C7528A67B94431B712
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -9167,7 +9167,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",AA16BE3B4732F407329ED6B450557C71"
 msgid "A strange song approaches me, a tune not heard in this land."
-msgstr "一首奇怪的曲子接近了我，在这片土地上从没有听过的旋律。"
+msgstr "一曲奇怪的曲调接近了我，这片土地上从没有听过一种曲调。"
 
 #. Key:	AA18E8094B0BEABB8C6A948FC36B6552
 #. SourceLocation:	/Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
@@ -9433,7 +9433,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
-msgstr "发散：后代在出生时有几率获得一个随机特性"
+msgstr "发散性：后代在出生时有几率获得一个随机特性"
 
 #. Key:	AFF40FDB49E0435621047691DD80B3DC
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToMale(1).LinesToMale
@@ -10350,7 +10350,7 @@ msgstr "现在我有人类可以一起玩了，我很期待实践我的推论！
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
-msgstr "放荡：后代有20%几率忽视近亲繁殖造成的负面影响"
+msgstr "放荡的：后代有20%几率忽视近亲繁殖造成的负面影响"
 
 #. Key:	BFE1041943E9B477E3A7848FC8505D3E
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheMe.Default__RomyDefault01_BatheMe_C.SessionData.Lines(0).Lines
@@ -10707,7 +10707,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",C77FA616486308414031F29069272188"
 msgid "Let's recharge my spirit form."
-msgstr "请您充能我的魂灵形态。"
+msgstr "请您改变我的魂灵形态。"
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
@@ -12226,7 +12226,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
-msgstr "光滑：继承了光滑的油性体表"
+msgstr "光滑的：继承了光滑的油性体表"
 
 #. Key:	E227A6EF4C9C296BC4394FA1701CA51F
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -12786,7 +12786,7 @@ msgstr "喜欢我又肥又厚的小穴吗？对、用你的所有力量操穿它
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(5).Lines
 msgctxt ",EB8281BE4BDC307B5C0B208F2E5CDCED"
 msgid "Titans like the mountain caves of the Climax Peak."
-msgstr "泰坦喜欢住在极乐之巅的洞穴里。"
+msgstr "泰坦喜欢住在高潮之峰的洞穴里。"
 
 #. Key:	EB9CEE7C492834A71E0684923E36AB86
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(5).Lines
@@ -12954,7 +12954,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
-msgstr "迷人：配种行为得到的经验值获得相当于自身魅力属性值的百分比加成"
+msgstr "迷人的：配种行为得到的经验值获得相当于自身魅力属性值的百分比加成"
 
 #. Key:	EF1AB21445DDAE7CA5453BB814817514
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -13045,7 +13045,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(7).Lines
 msgctxt ",F05FD1324ABB81C7141ED7A41A996723"
 msgid "Last but by no means least, you can find the Seraphim in their temporary home Esoteric Glade."
-msgstr "最后一点，四翼天使把秘传之地当作一个临时的住处，你可以在那里找到她们"
+msgstr "最后一点，四翼天使把神秘沼泽当作一个临时的住处，你可以在那里找到她们"
 
 #. Key:	F06D080B472FAC8F39770EB5B3818956
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(15).Lines
@@ -17385,7 +17385,7 @@ msgstr "每个人都有无限的情欲值"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:988
 msgctxt "SSexySettingsMenu,CheatMoney"
 msgid "Added 1,000,000 orgasium."
-msgstr "增加1,000,000"
+msgstr "增加1000000"
 
 #. Key:	CheatRanch
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1031
@@ -17413,7 +17413,7 @@ msgstr "您现在拥有无限的精神。"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1045
 msgctxt "SSexySettingsMenu,CheatSurprise"
 msgid "You will always win surprise sex."
-msgstr "您将永远在surprise sex中取胜。"
+msgstr "您将永远赢得surprise sex.。"
 
 #. Key:	CheatTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:199
